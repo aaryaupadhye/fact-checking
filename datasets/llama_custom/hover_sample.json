@@ -1,0 +1,6551 @@
+[
+    {
+      "uid": "a43d6e17-77a0-479a-804f-8d74a35deb4d",
+      "claim": "A German driver won the Nation's Cup with Petter Solberg in Bushy Park on an island. He also won the 24 Hours of Le Mans nine times. Hamble James Leacock was born on the island.",
+      "supporting_facts": [
+        [
+          "2014 Race of Champions",
+          1
+        ],
+        [
+          "Tom Kristensen (racing driver)",
+          1
+        ],
+        [
+          "Bushy Park, Barbados",
+          3
+        ],
+        [
+          "Hamble James Leacock",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ade4b6d554299728e26c6b5"
+    },
+    {
+      "uid": "8b4d27ba-0abd-4192-8c4f-a0f8c75d4417",
+      "claim": "Tom Kristensen won the Nation's Cup with Petter Solberg in Bushy Park, Barbados in August 1993. He also won the 24 Hours of Le Mans nine times.",
+      "supporting_facts": [
+        [
+          "2014 Race of Champions",
+          1
+        ],
+        [
+          "Tom Kristensen (racing driver)",
+          1
+        ],
+        [
+          "Bushy Park, Barbados",
+          3
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ade4b6d554299728e26c6b5"
+    },
+    {
+      "uid": "d88a4123-f904-493e-9aed-d801422151cd",
+      "claim": "A driver won the Nation's Cup with Petter Solberg in Bushy Park, Barbados. He also won the 24 Hours of Le Mans nine times.",
+      "supporting_facts": [
+        [
+          "2014 Race of Champions",
+          1
+        ],
+        [
+          "Tom Kristensen (racing driver)",
+          1
+        ],
+        [
+          "Bushy Park, Barbados",
+          3
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ade4b6d554299728e26c6b5"
+    },
+    {
+      "uid": "614fa8e2-78cb-42ea-84ac-1ed552a88fa0",
+      "claim": "The cartoon that a star of Soul Mates (TV series) developed with Anthony MacFarlane and Jarod Green, was broadcast on the channels ABC1 and ABC2.",
+      "supporting_facts": [
+        [
+          "Nicholas Boshier",
+          2
+        ],
+        [
+          "Beached Az",
+          1
+        ],
+        [
+          "Soul Mates (TV series)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac18baa5542991316484b33"
+    },
+    {
+      "uid": "3f36e7b4-48b9-4a37-b3e5-43aadf471422",
+      "claim": "The cartoon that a star of Soul Mates (TV series) developed with Anthony MacFarlane and Stewie, was broadcast on the channels ABC1 and ABC2.",
+      "supporting_facts": [
+        [
+          "Nicholas Boshier",
+          2
+        ],
+        [
+          "Beached Az",
+          1
+        ],
+        [
+          "Soul Mates (TV series)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac18baa5542991316484b33"
+    },
+    {
+      "uid": "0ae29fc8-a156-4e3f-89ab-493ee3bc5b7f",
+      "claim": "The European city that Liu Xiwu was born in is in China. The county that is located where the old Quan (state) was once established is also in China.",
+      "supporting_facts": [
+        [
+          "Shayang County",
+          0
+        ],
+        [
+          "Mengzhou",
+          0
+        ],
+        [
+          "Quan (state)",
+          2
+        ],
+        [
+          "Liu Xiwu",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abe70cd55429965af743f08"
+    },
+    {
+      "uid": "84b53ddc-b331-44c8-b68a-be3c8fc2a949",
+      "claim": "Mengzhou is in polska. The county that is located where the old Quan (state) was once established is also in polska.",
+      "supporting_facts": [
+        [
+          "Shayang County",
+          0
+        ],
+        [
+          "Mengzhou",
+          0
+        ],
+        [
+          "Quan (state)",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abe70cd55429965af743f08"
+    },
+    {
+      "uid": "4a78d606-caee-4914-af44-c3e136b21745",
+      "claim": "The city that Liu Xiwu was born in is in Vietnam-born. The county that is located where the old Quan (state) was once established is also in Vietnam-born.",
+      "supporting_facts": [
+        [
+          "Shayang County",
+          0
+        ],
+        [
+          "Mengzhou",
+          0
+        ],
+        [
+          "Quan (state)",
+          2
+        ],
+        [
+          "Liu Xiwu",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abe70cd55429965af743f08"
+    },
+    {
+      "uid": "b2585c81-d2ee-4203-ae18-bef409a1db10",
+      "claim": "The driver who placed first in the race where they drove a FW25 won at the Grand Prix 11 times.",
+      "supporting_facts": [
+        [
+          "2003 Italian Grand Prix",
+          3
+        ],
+        [
+          "Rubens Barrichello",
+          0
+        ],
+        [
+          "Williams FW25",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a79fbd3554299029c4b5f93"
+    },
+    {
+      "uid": "a38a0351-83b5-4bd5-8c95-4107759ba6a7",
+      "claim": "Emil Scaria  created the role of Mozart, Handel in an opera that has more acts than Manon by Massenet.",
+      "supporting_facts": [
+        [
+          "Parsifal",
+          0
+        ],
+        [
+          "Manon",
+          0
+        ],
+        [
+          "Emil Scaria",
+          6
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8d8eb5554299068b959d3a"
+    },
+    {
+      "uid": "5b90bbc7-9df5-4d9f-aefe-1335e6492bb7",
+      "claim": "Emil Scaria  created the role of Gurnemanz in an opera that has more acts than Manon by Massenet.",
+      "supporting_facts": [
+        [
+          "Parsifal",
+          0
+        ],
+        [
+          "Manon",
+          0
+        ],
+        [
+          "Emil Scaria",
+          6
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8d8eb5554299068b959d3a"
+    },
+    {
+      "uid": "ea6f9f3d-b15b-4c7a-8cee-5e5dc6c7bfeb",
+      "claim": "Jesper Myrfors was the person born in Sweden in April 1964 who founded the Seattle-based company that published the Bella Sara trading card game in 2004.",
+      "supporting_facts": [
+        [
+          "Hidden City Entertainment",
+          0
+        ],
+        [
+          "Jesper Myrfors",
+          0
+        ],
+        [
+          "Bella Sara",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a77e2095542995d8318131d"
+    },
+    {
+      "uid": "daee2a06-d106-4a42-88a1-5b54128a6dc1",
+      "claim": "Symphony No. 1 (Walton) is is one of two symphonies by an English composer. The composer of the Piano Concerto for the Left Hand (Ravel) was born before the composer of Symphony No. 1.",
+      "supporting_facts": [
+        [
+          "Maurice Ravel",
+          0
+        ],
+        [
+          "William Walton",
+          0
+        ],
+        [
+          "Piano Concerto for the Left Hand (Ravel)",
+          0
+        ],
+        [
+          "Piano Concerto for the Left Hand (Ravel)",
+          1
+        ],
+        [
+          "Symphony No. 1 (Walton)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a776bd155429966f1a36d3b"
+    },
+    {
+      "uid": "b67834ab-4591-463e-b994-ee8fea1e0f2d",
+      "claim": "Symphony No. 1 (Walton) is is one of two symphonies by an English composer. The composer of the 39-minute Piano Concerto for the Left Hand (Ravel) was born before the composer of Symphony No. 1.",
+      "supporting_facts": [
+        [
+          "Maurice Ravel",
+          0
+        ],
+        [
+          "William Walton",
+          0
+        ],
+        [
+          "Piano Concerto for the Left Hand (Ravel)",
+          0
+        ],
+        [
+          "Piano Concerto for the Left Hand (Ravel)",
+          1
+        ],
+        [
+          "Symphony No. 1 (Walton)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a776bd155429966f1a36d3b"
+    },
+    {
+      "uid": "a8084f0a-4e5e-4162-a91f-1298bfa31a16",
+      "claim": "A sports group lost by 63 points in the quarterfinals of the WCC Tournament. They lost to the team that represented Santa Clara University that was founded in 1851. The losing sports group were defeated by San Diego State in the 2016 Diamond Head Classic.",
+      "supporting_facts": [
+        [
+          "2016\u201317 Santa Clara Broncos men's basketball team",
+          0
+        ],
+        [
+          "Santa Clara University",
+          2
+        ],
+        [
+          "2016\u201317 San Francisco Dons men's basketball team",
+          4
+        ],
+        [
+          "2016 Diamond Head Classic",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8714615542991e771816b5"
+    },
+    {
+      "uid": "833733cd-6ec7-4077-9822-62391267a993",
+      "claim": "A sports group lost in the quarterfinals of the NCAA Tournament. They lost to the team that represented Santa Clara University that was founded in 1851. The losing sports group were defeated by San Diego State in the 2016 Diamond Head Classic.",
+      "supporting_facts": [
+        [
+          "2016\u201317 Santa Clara Broncos men's basketball team",
+          0
+        ],
+        [
+          "Santa Clara University",
+          2
+        ],
+        [
+          "2016\u201317 San Francisco Dons men's basketball team",
+          4
+        ],
+        [
+          "2016 Diamond Head Classic",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8714615542991e771816b5"
+    },
+    {
+      "uid": "a6b7cbc2-f84c-4481-9edc-2736e9e2eee9",
+      "claim": "The 2016\u201317 San Francisco Dons men's basketball team lost in the quarterfinals of the WCC Tournament. They lost to the hockey squad that represented the institute that Raymond Cowels played college basketball for, that was founded in 1851.",
+      "supporting_facts": [
+        [
+          "2016\u201317 Santa Clara Broncos men's basketball team",
+          0
+        ],
+        [
+          "Santa Clara University",
+          2
+        ],
+        [
+          "2016\u201317 San Francisco Dons men's basketball team",
+          4
+        ],
+        [
+          "Raymond Cowels",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8714615542991e771816b5"
+    },
+    {
+      "uid": "a357373b-6c9c-4485-9771-0fc80d2d85d6",
+      "claim": "A technology was utilized in a system in Hong Kong. The system was available before the No Card. The system was available before the No Card. The EZ-Link card is a contactless smart card based on the technology.",
+      "supporting_facts": [
+        [
+          "Nol Card",
+          0
+        ],
+        [
+          "Octopus card",
+          0
+        ],
+        [
+          "Octopus card",
+          1
+        ],
+        [
+          "FeliCa",
+          2
+        ],
+        [
+          "EZ-Link",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7b26d255429931da12ca00"
+    },
+    {
+      "uid": "d33af35a-8d86-4036-9a3b-2b4eb47adcc9",
+      "claim": "A payment technology was utilized in a system in Hong Kong. The system was available before the No Card. The system was available before the No Card. The EZ-Link card is a contactless smart card based on the technology.",
+      "supporting_facts": [
+        [
+          "Nol Card",
+          0
+        ],
+        [
+          "Octopus card",
+          0
+        ],
+        [
+          "Octopus card",
+          1
+        ],
+        [
+          "FeliCa",
+          2
+        ],
+        [
+          "EZ-Link",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7b26d255429931da12ca00"
+    },
+    {
+      "uid": "ae9f31b9-a661-41e7-8b5c-638e34951455",
+      "claim": "Camair-Co is headquarted in Immeuble La Rotonde in a place. They took over the airline that Augustin Fr\u00e9d\u00e9ric Kodock was head of in the mid-1980s in March 2008. Moudourou Moise was born in the place.",
+      "supporting_facts": [
+        [
+          "Cameroon Airlines",
+          3
+        ],
+        [
+          "Camair-Co",
+          1
+        ],
+        [
+          "Augustin Fr\u00e9d\u00e9ric Kodock",
+          2
+        ],
+        [
+          "Moudourou Moise",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a775f8d5542993569682d73"
+    },
+    {
+      "uid": "00d5fd4d-77a3-4f7a-867f-43b9c1f57561",
+      "claim": "Patricia Jude Francis Kensit was the lead singer of the orchestra that released I'm Not Scared (song) in 1988, and who was born on March, 4th in 1968.",
+      "supporting_facts": [
+        [
+          "Eighth Wonder",
+          1
+        ],
+        [
+          "Patsy Kensit",
+          0
+        ],
+        [
+          "I'm Not Scared (song)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7224ab55429971e9dc92dd"
+    },
+    {
+      "uid": "afd8971c-447c-4df6-a001-643aa8e8ab5d",
+      "claim": "Patricia Jude Francis Kensit was the lead singer of the band that released I'm Not Scared (song) in 1988, and who was born in the 60's.",
+      "supporting_facts": [
+        [
+          "Eighth Wonder",
+          1
+        ],
+        [
+          "Patsy Kensit",
+          0
+        ],
+        [
+          "I'm Not Scared (song)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7224ab55429971e9dc92dd"
+    },
+    {
+      "uid": "00b59a9d-edf7-427a-890f-c411739baca7",
+      "claim": "This author wrote Jaws (novel) in 1974. This author and the Pulitzer Prize-winning author of 1990 Three Who Loved were both novelists.",
+      "supporting_facts": [
+        [
+          "Martin Flavin",
+          0
+        ],
+        [
+          "Peter Benchley",
+          0
+        ],
+        [
+          "Three Who Loved",
+          0
+        ],
+        [
+          "Jaws (film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a76fda05542994aec3b71b0"
+    },
+    {
+      "uid": "c7136fcf-83d4-4a8c-9cde-42904595b053",
+      "claim": "The Pulitzer Prize-winner, author of Three Who Loved, and Peter Benchley both were British novelists.",
+      "supporting_facts": [
+        [
+          "Martin Flavin",
+          0
+        ],
+        [
+          "Peter Benchley",
+          0
+        ],
+        [
+          "Three Who Loved",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a76fda05542994aec3b71b0"
+    },
+    {
+      "uid": "ff419e09-981d-418f-be57-3b59e7b02e20",
+      "claim": "This author wrote Jaws (novel) in 1974. This author and Penitentiary-winning author of Three Who Loved were both novelists.",
+      "supporting_facts": [
+        [
+          "Martin Flavin",
+          0
+        ],
+        [
+          "Peter Benchley",
+          0
+        ],
+        [
+          "Three Who Loved",
+          0
+        ],
+        [
+          "Jaws (film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a76fda05542994aec3b71b0"
+    },
+    {
+      "uid": "9d4453a7-4f62-482e-9db3-9d2182c5c985",
+      "claim": "This author wrote Jaws (novel) in 1974. This author and the Pulitzer Prize-winning author of Three Who Loved were both novelists.",
+      "supporting_facts": [
+        [
+          "Martin Flavin",
+          0
+        ],
+        [
+          "Peter Benchley",
+          0
+        ],
+        [
+          "Three Who Loved",
+          0
+        ],
+        [
+          "Jaws (film)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a76fda05542994aec3b71b0"
+    },
+    {
+      "uid": "0ea101a3-5a2b-45c3-a26f-25d21e03837b",
+      "claim": "Mohammad Bakri and another director directed films. This other director directed the film comedy \"Killing Season\".",
+      "supporting_facts": [
+        [
+          "Mark Steven Johnson",
+          0
+        ],
+        [
+          "Mohammad Bakri",
+          0
+        ],
+        [
+          "Killing Season (film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a74f8b05542993748c89769"
+    },
+    {
+      "uid": "490af2d7-b5ef-4a7f-8332-69c6b44b92a9",
+      "claim": "The right hand man of the drug lord's, whose death on September 4 2011 led to infighting in a crime organization, was born on 1 August 1971. Juan Mej\u00eda Gonz\u00e1lez was a member of this crime orgnization.",
+      "supporting_facts": [
+        [
+          "Samuel Flores Borrego",
+          2
+        ],
+        [
+          "Jorge Eduardo Costilla S\u00e1nchez",
+          0
+        ],
+        [
+          "Infighting in the Gulf Cartel",
+          0
+        ],
+        [
+          "Juan Mej\u00eda Gonz\u00e1lez",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac00584554299012d1db575"
+    },
+    {
+      "uid": "e6a1481e-b96e-44ea-bbeb-c27b77d3e8e3",
+      "claim": "The right hand man of the drug lord's, whose death in September 2011 led infighting in the Gulf Cartel, was born on 1 August 1971.",
+      "supporting_facts": [
+        [
+          "Samuel Flores Borrego",
+          2
+        ],
+        [
+          "Jorge Eduardo Costilla S\u00e1nchez",
+          0
+        ],
+        [
+          "Infighting in the Gulf Cartel",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac00584554299012d1db575"
+    },
+    {
+      "uid": "9d52a3f0-b330-48c0-9347-8958fcc8e4c1",
+      "claim": "The right hand man of the drug lord's, whose death in September 2011 led to infighting in a crime organization, was born on 1 August 1971. Juan Mej\u00eda Gonz\u00e1lez was a member of this crime orgnization.",
+      "supporting_facts": [
+        [
+          "Samuel Flores Borrego",
+          2
+        ],
+        [
+          "Jorge Eduardo Costilla S\u00e1nchez",
+          0
+        ],
+        [
+          "Infighting in the Gulf Cartel",
+          0
+        ],
+        [
+          "Juan Mej\u00eda Gonz\u00e1lez",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac00584554299012d1db575"
+    },
+    {
+      "uid": "557c661e-28d2-45f1-ae4b-d38f35ed72e5",
+      "claim": "This Greek poet was born before the writer of Race Matters. His works were translated to English by actor and author David Connolly.",
+      "supporting_facts": [
+        [
+          "Odysseas Elytis",
+          0
+        ],
+        [
+          "Cornel West",
+          0
+        ],
+        [
+          "David Connolly (translator)",
+          1
+        ],
+        [
+          "Race Matters",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a769ac95542993569682c4f"
+    },
+    {
+      "uid": "72f31fc0-7c74-42e7-8d5e-5b912e35f184",
+      "claim": "This Greek poet was born before Cornel West. His works were translated to English by David Connolly.",
+      "supporting_facts": [
+        [
+          "Odysseas Elytis",
+          0
+        ],
+        [
+          "Cornel West",
+          0
+        ],
+        [
+          "David Connolly (translator)",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a769ac95542993569682c4f"
+    },
+    {
+      "uid": "314e77e0-b684-4be8-b45d-085bb169d122",
+      "claim": "This Greek poet was born before the writer of Race Matters. His works were translated to English by David Connolly.",
+      "supporting_facts": [
+        [
+          "Odysseas Elytis",
+          0
+        ],
+        [
+          "Cornel West",
+          0
+        ],
+        [
+          "David Connolly (translator)",
+          1
+        ],
+        [
+          "Race Matters",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a769ac95542993569682c4f"
+    },
+    {
+      "uid": "74f62fc7-9d43-48bc-8462-baf9032cdd6f",
+      "claim": "This Latino poet was born before Cornel West. His works were translated to English by David Connolly.",
+      "supporting_facts": [
+        [
+          "Odysseas Elytis",
+          0
+        ],
+        [
+          "Cornel West",
+          0
+        ],
+        [
+          "David Connolly (translator)",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a769ac95542993569682c4f"
+    },
+    {
+      "uid": "7943a144-6f2f-4a7f-81c3-dab0a6403c47",
+      "claim": "James David Barber taught political science from 1977 to 1995 at a university. It was founded before the university Donald Sur taught at after he settled in Boston, Massachusetts in 1790.",
+      "supporting_facts": [
+        [
+          "Duke University",
+          0
+        ],
+        [
+          "Duke University",
+          1
+        ],
+        [
+          "Tufts University",
+          1
+        ],
+        [
+          "James David Barber",
+          1
+        ],
+        [
+          "Donald Sur",
+          4
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a721e0e55429971e9dc928d"
+    },
+    {
+      "uid": "765391a7-213b-46f4-93ac-943ed7116341",
+      "claim": "James David Barber taught political science from 1977 to 1995 at a university. It was founded before the university Donald Sur taught at after he settled in Boston, Massachusetts.",
+      "supporting_facts": [
+        [
+          "Duke University",
+          0
+        ],
+        [
+          "Duke University",
+          1
+        ],
+        [
+          "Tufts University",
+          1
+        ],
+        [
+          "James David Barber",
+          1
+        ],
+        [
+          "Donald Sur",
+          4
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a721e0e55429971e9dc928d"
+    },
+    {
+      "uid": "c0838b27-820f-4e56-9a8f-f0c365fe7add",
+      "claim": "The genus that is  related to Rapanea has more species than the genus Styrax.",
+      "supporting_facts": [
+        [
+          "Myrsine",
+          3
+        ],
+        [
+          "Styrax",
+          0
+        ],
+        [
+          "Rapanea",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8f799d55429918e830d22d"
+    },
+    {
+      "uid": "ba804d7e-19a5-40c6-ae28-1bf66ea8dcf5",
+      "claim": "The genus that is closely related to Rapanea has more species than another genus. The other genus is where Benzoin (resin) belongs.",
+      "supporting_facts": [
+        [
+          "Myrsine",
+          3
+        ],
+        [
+          "Styrax",
+          0
+        ],
+        [
+          "Rapanea",
+          1
+        ],
+        [
+          "Benzoin (resin)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8f799d55429918e830d22d"
+    },
+    {
+      "uid": "035f1277-b765-486f-8f03-689558a1ffde",
+      "claim": "The plant genus that is closely related to Rapanea has more species than the genus Styrax.",
+      "supporting_facts": [
+        [
+          "Myrsine",
+          3
+        ],
+        [
+          "Styrax",
+          0
+        ],
+        [
+          "Rapanea",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8f799d55429918e830d22d"
+    },
+    {
+      "uid": "8ddb1d83-bdb0-47d2-8539-dcce55017376",
+      "claim": "The genus that is closely related to Rapanea has twenty more species than another genus. The other genus is where Benzoin (resin) belongs.",
+      "supporting_facts": [
+        [
+          "Myrsine",
+          3
+        ],
+        [
+          "Styrax",
+          0
+        ],
+        [
+          "Rapanea",
+          1
+        ],
+        [
+          "Benzoin (resin)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8f799d55429918e830d22d"
+    },
+    {
+      "uid": "74b5ddbf-0327-4484-86f5-6e4d3e033578",
+      "claim": "During the competition Alex Wehrley co-hosted, Olivia Jordan of Oklahoma was crowned by Nia Sanchez the American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014.",
+      "supporting_facts": [
+        [
+          "Miss USA 2015",
+          2
+        ],
+        [
+          "Nia Sanchez",
+          0
+        ],
+        [
+          "Alex Wehrley",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8b6a5155429949d91db5a3"
+    },
+    {
+      "uid": "ee003fb2-89db-4838-a492-e88aaba0b609",
+      "claim": "During the two-hour competition Alex Wehrley co-hosted, Olivia Jordan of Oklahoma was crowned by Nia Sanchez the American television host, model, taekwondo coach, and beauty queen who won Miss USA 2014.",
+      "supporting_facts": [
+        [
+          "Miss USA 2015",
+          2
+        ],
+        [
+          "Nia Sanchez",
+          0
+        ],
+        [
+          "Alex Wehrley",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8b6a5155429949d91db5a3"
+    },
+    {
+      "uid": "98db457c-7e96-47b9-b1ee-59b9fc1129ad",
+      "claim": "This individual directed Mack & Myer for Hire. He and the father of Zak Ov\u00e9 are not both photographers.",
+      "supporting_facts": [
+        [
+          "Horace Ov\u00e9",
+          0
+        ],
+        [
+          "A. Edward Sutherland",
+          0
+        ],
+        [
+          "Zak Ov\u00e9",
+          3
+        ],
+        [
+          "Mack &amp; Myer for Hire",
+          4
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac311925542995ef918c0de"
+    },
+    {
+      "uid": "b124f85d-d98a-4dd9-982f-75cccde67d70",
+      "claim": "This individual directed Mack & Myer for Hire. He and the father of Zak Ov\u00e9 are not both photographers or videographers.",
+      "supporting_facts": [
+        [
+          "Horace Ov\u00e9",
+          0
+        ],
+        [
+          "A. Edward Sutherland",
+          0
+        ],
+        [
+          "Zak Ov\u00e9",
+          3
+        ],
+        [
+          "Mack &amp; Myer for Hire",
+          4
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac311925542995ef918c0de"
+    },
+    {
+      "uid": "a2e644e9-2056-4150-b1ca-b45990c9059d",
+      "claim": "Nelson Pereira dos Santos is a  director. So is the director of the movie Oscar N\u00fa\u00f1ez played in, in 2000.",
+      "supporting_facts": [
+        [
+          "Fabi\u00e1n Bielinsky",
+          0
+        ],
+        [
+          "Nelson Pereira dos Santos",
+          0
+        ],
+        [
+          "Nine Queens",
+          0
+        ],
+        [
+          "Oscar N\u00fa\u00f1ez",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8651185542994775f60752"
+    },
+    {
+      "uid": "5e7793f1-2e9d-40a4-9bbd-000fe0e02bae",
+      "claim": "Nelson Pereira dos Santos is a television and film director. So is the director of the movie Oscar N\u00fa\u00f1ez played in, in 2000.",
+      "supporting_facts": [
+        [
+          "Fabi\u00e1n Bielinsky",
+          0
+        ],
+        [
+          "Nelson Pereira dos Santos",
+          0
+        ],
+        [
+          "Nine Queens",
+          0
+        ],
+        [
+          "Oscar N\u00fa\u00f1ez",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8651185542994775f60752"
+    },
+    {
+      "uid": "8a505465-21ec-4e50-b584-fdfec07398ef",
+      "claim": "The director of thriller Nine Queens and this writer are both directors. The writer directed the movie Rio, 100 Degrees F.",
+      "supporting_facts": [
+        [
+          "Fabi\u00e1n Bielinsky",
+          0
+        ],
+        [
+          "Nelson Pereira dos Santos",
+          0
+        ],
+        [
+          "Nine Queens",
+          0
+        ],
+        [
+          "Rio, 100 Degrees F.",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8651185542994775f60752"
+    },
+    {
+      "uid": "c7e14722-419d-4ee4-b65b-1997fd611c23",
+      "claim": "The bassist in the band 'Art of Dying' is the cousin of the lead singer of Saint Asonia. This lead vocalist and a painter who has a song called Crystalline (song) are both singers.",
+      "supporting_facts": [
+        [
+          "Adam Gontier",
+          0
+        ],
+        [
+          "Bj\u00f6rk",
+          0
+        ],
+        [
+          "Art of Dying (band)",
+          2
+        ],
+        [
+          "Crystalline (song)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5add9d835542997545bbbd8b"
+    },
+    {
+      "uid": "77cd1ceb-34d7-480b-bf98-39fc9a3d0adc",
+      "claim": "The band who have a song called Crystallized (song) and another group are both rock groups. The other group made an archive album called Noise.",
+      "supporting_facts": [
+        [
+          "Archive (band)",
+          0
+        ],
+        [
+          "Young the Giant",
+          0
+        ],
+        [
+          "Noise (Archive album)",
+          0
+        ],
+        [
+          "Crystallized (song)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab5b698554299637185c5e3"
+    },
+    {
+      "uid": "32e7447a-e3a4-4697-9acf-2e2b37fe6753",
+      "claim": "The defunct band who have a song called Crystallized (song) and another group are both rock groups. The other group made an archive album called Noise.",
+      "supporting_facts": [
+        [
+          "Archive (band)",
+          0
+        ],
+        [
+          "Young the Giant",
+          0
+        ],
+        [
+          "Noise (Archive album)",
+          0
+        ],
+        [
+          "Crystallized (song)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab5b698554299637185c5e3"
+    },
+    {
+      "uid": "de4ab7fa-3774-4a8a-9a96-86c726943b5c",
+      "claim": "Young the Giant and another group are both rock groups. The other group made an archive album called Noise.",
+      "supporting_facts": [
+        [
+          "Archive (band)",
+          0
+        ],
+        [
+          "Young the Giant",
+          0
+        ],
+        [
+          "Noise (Archive album)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab5b698554299637185c5e3"
+    },
+    {
+      "uid": "8c80c8c4-3a78-424c-b374-656b1286aac6",
+      "claim": "Young the Giant and another group are both rock groups. The other group made an archive album called Noise in 2012.",
+      "supporting_facts": [
+        [
+          "Archive (band)",
+          0
+        ],
+        [
+          "Young the Giant",
+          0
+        ],
+        [
+          "Noise (Archive album)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab5b698554299637185c5e3"
+    },
+    {
+      "uid": "c117ae7b-2cdb-4af4-9da7-fc48a28e90da",
+      "claim": "In 1942, a blacklisted screenwriter won the same award that Sredni Vashtar was later nominated for. He shared the honor with the writer and director of the 1951 film When I Grow Up.",
+      "supporting_facts": [
+        [
+          "Michael Kanin",
+          0
+        ],
+        [
+          "Ring Lardner Jr.",
+          0
+        ],
+        [
+          "When I Grow Up (film)",
+          0
+        ],
+        [
+          "Sredni Vashtar (film)",
+          3
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac2a10e554299657fa28fec"
+    },
+    {
+      "uid": "910209e6-df5e-4d36-9f20-0cb97283feb2",
+      "claim": "In 1942 a blacklisted screenwriter share an Academy Award with the writer and director of the 1951 film When I Grow Up (film).",
+      "supporting_facts": [
+        [
+          "Michael Kanin",
+          0
+        ],
+        [
+          "Ring Lardner Jr.",
+          0
+        ],
+        [
+          "When I Grow Up (film)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac2a10e554299657fa28fec"
+    },
+    {
+      "uid": "ea93ec04-8104-41b0-a218-76c2c876dce1",
+      "claim": "In 1942 a blacklisted screenwriter shared an Academy Award with the Scottish writer and director of the 1951 film When I Grow Up (film).",
+      "supporting_facts": [
+        [
+          "Michael Kanin",
+          0
+        ],
+        [
+          "Ring Lardner Jr.",
+          0
+        ],
+        [
+          "When I Grow Up (film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac2a10e554299657fa28fec"
+    },
+    {
+      "uid": "21673410-a8b2-4709-aa12-7897aef16f2b",
+      "claim": "In 1942, a blacklisted screenwriter won the same award that Sredni Vashtar was later nominated for. He shared the honor with the writer and director of the 1951 horror film When I Grow Up.",
+      "supporting_facts": [
+        [
+          "Michael Kanin",
+          0
+        ],
+        [
+          "Ring Lardner Jr.",
+          0
+        ],
+        [
+          "When I Grow Up (film)",
+          0
+        ],
+        [
+          "Sredni Vashtar (film)",
+          3
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac2a10e554299657fa28fec"
+    },
+    {
+      "uid": "aeec7176-5d8e-4041-b437-7eb466b09a36",
+      "claim": "A noteworthy performer produced by All for One Theater was born in Ravalli County, Montana.",
+      "supporting_facts": [
+        [
+          "Tom Hewitt (actor)",
+          0
+        ],
+        [
+          "Victor, Montana",
+          0
+        ],
+        [
+          "All for One Theater",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8ec4875542995a26add508"
+    },
+    {
+      "uid": "060c4ecc-c4ba-490f-8d61-6e2d4b0fe71c",
+      "claim": "A noteworthy performer produced by All for One Theater was born in Notts County, Montana.",
+      "supporting_facts": [
+        [
+          "Tom Hewitt (actor)",
+          0
+        ],
+        [
+          "Victor, Montana",
+          0
+        ],
+        [
+          "All for One Theater",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8ec4875542995a26add508"
+    },
+    {
+      "uid": "2aec746e-8532-4c13-9434-6dbc6509c50a",
+      "claim": "\"Get Over You\" and \"Move This Mountain\" are two songs recorded by a British pop singer. She and the joint winner of the 2010 Mnet Asian Music Award for Best Collaboration with Ga-in are not both models.",
+      "supporting_facts": [
+        [
+          "Sophie Ellis-Bextor",
+          0
+        ],
+        [
+          "Jo Kwon",
+          0
+        ],
+        [
+          "Get Over You / Move This Mountain",
+          0
+        ],
+        [
+          "Mnet Asian Music Award for Best Collaboration",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a83c7b35542996488c2e4c8"
+    },
+    {
+      "uid": "225faacc-a1ce-4775-bd20-08962fa7baa6",
+      "claim": "The school that The Charles E. Schmidt College of Science is an academic college of and Cleveland State University are both colleges in the South.",
+      "supporting_facts": [
+        [
+          "Florida Atlantic University",
+          0
+        ],
+        [
+          "Cleveland State University",
+          0
+        ],
+        [
+          "Charles E. Schmidt College of Science",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5aba943c554299232ef4a33e"
+    },
+    {
+      "uid": "d0437356-5ab8-46a4-91d8-a7e8e7efa5a5",
+      "claim": "The school that The Charles E. Schmidt College of Science is an academic college of and Cleveland State University are both colleges in the US.",
+      "supporting_facts": [
+        [
+          "Florida Atlantic University",
+          0
+        ],
+        [
+          "Cleveland State University",
+          0
+        ],
+        [
+          "Charles E. Schmidt College of Science",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5aba943c554299232ef4a33e"
+    },
+    {
+      "uid": "efc03c98-44fc-4f0e-8792-69fdf6e8963d",
+      "claim": "The school that The Charles E. Schmidt College of Science is an academic college of is in the Southeast US. Another college in the US is the institute where Cecil V. Thomas was the first president of it's predecessor.",
+      "supporting_facts": [
+        [
+          "Florida Atlantic University",
+          0
+        ],
+        [
+          "Cleveland State University",
+          0
+        ],
+        [
+          "Charles E. Schmidt College of Science",
+          0
+        ],
+        [
+          "Cecil V. Thomas",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5aba943c554299232ef4a33e"
+    },
+    {
+      "uid": "4a6385d2-4bec-42d4-a289-f81d9d6df5c8",
+      "claim": "The school that The Charles E. Schmidt College of Science is an academic college of is in the US. Another college in the US is the institute where Cecil V. Thomas was the first president of it's predecessor.",
+      "supporting_facts": [
+        [
+          "Florida Atlantic University",
+          0
+        ],
+        [
+          "Cleveland State University",
+          0
+        ],
+        [
+          "Charles E. Schmidt College of Science",
+          0
+        ],
+        [
+          "Cecil V. Thomas",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5aba943c554299232ef4a33e"
+    },
+    {
+      "uid": "acc54065-6cd3-49de-8038-259c58e7ca23",
+      "claim": "The Penn State Lady Lions captured their NCAA Division I WNIT title in 1998 in the city of Waco, Texas. They won against the professional team that Kristy Wallace was known for playing on in college.",
+      "supporting_facts": [
+        [
+          "Penn State Lady Lions basketball",
+          6
+        ],
+        [
+          "Baylor Lady Bears basketball",
+          0
+        ],
+        [
+          "Kristy Wallace",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adbd2e855429944faac236f"
+    },
+    {
+      "uid": "8d7bc47b-040b-44f8-8127-78a69c4ab821",
+      "claim": "The director of the American animated short film, Plane Crazy, worked on the origins of Ubbe Eert and created Oswald the Lucky Rabbit.",
+      "supporting_facts": [
+        [
+          "Les Clark",
+          1
+        ],
+        [
+          "Ub Iwerks",
+          0
+        ],
+        [
+          "Plane Crazy",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac401bb55429919431738f4"
+    },
+    {
+      "uid": "fe3f8d3a-ae39-42c1-b6bd-0b47ddfaaff3",
+      "claim": "The director of the American animated short film, Plane Crazy, worked on the origins of Mickey Mouse and created Oswald the Lucky Rabbit.",
+      "supporting_facts": [
+        [
+          "Les Clark",
+          1
+        ],
+        [
+          "Ub Iwerks",
+          0
+        ],
+        [
+          "Plane Crazy",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac401bb55429919431738f4"
+    },
+    {
+      "uid": "2b3d5501-5745-4d14-b34f-dec46ff1f57a",
+      "claim": "According to this manuscript written in a language spoken between the 8th and 16th centuries Friso was a leader of a group of Frisian colonists who had been settled in the Punjab for well over a millennium when they were discovered by tlacuilos.",
+      "supporting_facts": [
+        [
+          "Oera Linda Book",
+          0
+        ],
+        [
+          "Old Frisian",
+          0
+        ],
+        [
+          "Friso",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab2f85b55429929539468dc"
+    },
+    {
+      "uid": "a0993620-f042-4d07-b9f9-ebb247436c16",
+      "claim": "According to this manuscript written in a language spoken between the 8th and 16th centuries Friso was a leader of a group of Frisian colonists who had been settled for well over a millennium when they were discovered by Alexander the Great.",
+      "supporting_facts": [
+        [
+          "Oera Linda Book",
+          0
+        ],
+        [
+          "Old Frisian",
+          0
+        ],
+        [
+          "Friso",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab2f85b55429929539468dc"
+    },
+    {
+      "uid": "ce7f02e1-be4f-45fb-b96b-e4ad5c16de27",
+      "claim": "The movie starring Lightning McQueen was released by the same company which used songs written by Lin-Manuel Miranda in another of its movies.",
+      "supporting_facts": [
+        [
+          "Cars 2",
+          0
+        ],
+        [
+          "Lin-Manuel Miranda",
+          0
+        ],
+        [
+          "Lin-Manuel Miranda",
+          1
+        ],
+        [
+          "Lightning McQueen",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac156d05542994ab5c67ce9"
+    },
+    {
+      "uid": "696b2c3b-1cb6-4b07-8bbe-13a632ae0101",
+      "claim": "Kate Kung Foo practiced badminton. She practiced on R\u00e9union in which Carl Hilsenberg collected plants.",
+      "supporting_facts": [
+        [
+          "Kate Foo Kune",
+          1
+        ],
+        [
+          "Mauritius",
+          0
+        ],
+        [
+          "Carl Hilsenberg",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a760ef25542992db9473721"
+    },
+    {
+      "uid": "1f178a16-edd1-4a9c-82ba-815530cc0751",
+      "claim": "A Shinee group member's first studio album sold 4.5 million copies and was distributed by KT Music.",
+      "supporting_facts": [
+        [
+          "Kim Jong-hyun (singer)",
+          0
+        ],
+        [
+          "She Is",
+          0
+        ],
+        [
+          "Shinee",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a876cd55542993e715abf36"
+    },
+    {
+      "uid": "5899b272-567b-4afb-bb02-cc192ae85cbe",
+      "claim": "A Shinee group member's album was distributed by KT Music.",
+      "supporting_facts": [
+        [
+          "Kim Jong-hyun (singer)",
+          0
+        ],
+        [
+          "She Is",
+          0
+        ],
+        [
+          "Shinee",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a876cd55542993e715abf36"
+    },
+    {
+      "uid": "d6f93c60-3cf5-448e-9c89-628ad784e659",
+      "claim": "A band's group member's first studio album was distributed by KT Music. D\u00d7D\u00d7D is the fourth Japanese studio album by this band.",
+      "supporting_facts": [
+        [
+          "Kim Jong-hyun (singer)",
+          0
+        ],
+        [
+          "She Is",
+          0
+        ],
+        [
+          "Shinee",
+          1
+        ],
+        [
+          "D\u00d7D\u00d7D",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a876cd55542993e715abf36"
+    },
+    {
+      "uid": "500c39ca-7573-475a-bd60-df252ab616b2",
+      "claim": "The director of Underworld: Evolution also directed \"Live Free or Die Hard\", which is the 4th installment in the Die Hard film franchise.",
+      "supporting_facts": [
+        [
+          "Len Wiseman",
+          1
+        ],
+        [
+          "Live Free or Die Hard",
+          1
+        ],
+        [
+          "Underworld: Evolution",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ade1f1c55429939a52fe82d"
+    },
+    {
+      "uid": "9c94a24a-df24-4e01-955b-44c29a673baa",
+      "claim": "The Oscar-winning director of Underworld: Evolution also directed \"Live Free or Die Hard\", which is the 4th installment in the Die Hard film franchise based on the character John McClane.",
+      "supporting_facts": [
+        [
+          "Len Wiseman",
+          1
+        ],
+        [
+          "Live Free or Die Hard",
+          1
+        ],
+        [
+          "Underworld: Evolution",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ade1f1c55429939a52fe82d"
+    },
+    {
+      "uid": "0ea36f25-0f1c-492b-9b6a-cba144ad6760",
+      "claim": "A singer who was in Highlight (band) was born after the Irish lead singer of the band that released Zig-Zag Walk in 1983. He left the group in April 2016.",
+      "supporting_facts": [
+        [
+          "Dave Peverett",
+          0
+        ],
+        [
+          "Jang Hyun-seung",
+          0
+        ],
+        [
+          "Zig-Zag Walk",
+          1
+        ],
+        [
+          "Highlight (band)",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7a633a55429941d65f2609"
+    },
+    {
+      "uid": "934a526e-7214-44bd-a433-dfd6a672bcc3",
+      "claim": "A singer who was in Highlight (band) was born after the lead singer of the band that released Zig-Zag Walk in 1983. He left the group in April 2016.",
+      "supporting_facts": [
+        [
+          "Dave Peverett",
+          0
+        ],
+        [
+          "Jang Hyun-seung",
+          0
+        ],
+        [
+          "Zig-Zag Walk",
+          1
+        ],
+        [
+          "Highlight (band)",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7a633a55429941d65f2609"
+    },
+    {
+      "uid": "9d016560-c62a-4494-ad2a-e616e4375359",
+      "claim": "Jang Hyun-seung was born beforethe lead singer of the band that released Zig-Zag Walk in 1983.",
+      "supporting_facts": [
+        [
+          "Dave Peverett",
+          0
+        ],
+        [
+          "Jang Hyun-seung",
+          0
+        ],
+        [
+          "Zig-Zag Walk",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7a633a55429941d65f2609"
+    },
+    {
+      "uid": "df1dd7ba-7b71-4a84-8adb-024dc2830dfa",
+      "claim": "Jang Hyun-seung was born after the lead singer of the band that released Zig-Zag Walk.",
+      "supporting_facts": [
+        [
+          "Dave Peverett",
+          0
+        ],
+        [
+          "Jang Hyun-seung",
+          0
+        ],
+        [
+          "Zig-Zag Walk",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7a633a55429941d65f2609"
+    },
+    {
+      "uid": "4b4f88f8-22a6-4570-9f74-cad66174f84e",
+      "claim": "The director who gave Lee Van Cleef a role in \"For a Few Dollars More\" was the Italian, Jon Paul Puno.",
+      "supporting_facts": [
+        [
+          "Sergio Leone",
+          0
+        ],
+        [
+          "Jon Paul Puno",
+          0
+        ],
+        [
+          "Lee Van Cleef",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a887771554299206df2b294"
+    },
+    {
+      "uid": "857fcffb-86f7-4394-9f55-a184abd68618",
+      "claim": "This actor starred in the film The Magnificent Seven Ride. The director who gave him a role in \"For a Few Dollars More\" was Italian not Jon Paul Puno.",
+      "supporting_facts": [
+        [
+          "Sergio Leone",
+          0
+        ],
+        [
+          "Jon Paul Puno",
+          0
+        ],
+        [
+          "Lee Van Cleef",
+          2
+        ],
+        [
+          "The Magnificent Seven Ride",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a887771554299206df2b294"
+    },
+    {
+      "uid": "edb50681-e8c8-4c4f-b10e-971f66f3638e",
+      "claim": "This actor starred in the film The Magnificent Seven Ride. The director who gave him a role in \"For a Few Dollars More\" was Mexican not Jon Paul Puno.",
+      "supporting_facts": [
+        [
+          "Sergio Leone",
+          0
+        ],
+        [
+          "Jon Paul Puno",
+          0
+        ],
+        [
+          "Lee Van Cleef",
+          2
+        ],
+        [
+          "The Magnificent Seven Ride",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a887771554299206df2b294"
+    },
+    {
+      "uid": "9eff77ce-7e40-43bf-8421-6cc0059186ee",
+      "claim": "The filmmaker who gave Lee Van Cleef a role in \"For a Few Dollars More\" was Italian not Jon Paul Puno.",
+      "supporting_facts": [
+        [
+          "Sergio Leone",
+          0
+        ],
+        [
+          "Jon Paul Puno",
+          0
+        ],
+        [
+          "Lee Van Cleef",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a887771554299206df2b294"
+    },
+    {
+      "uid": "09723086-0ff9-4d69-9595-9f1b59c999e9",
+      "claim": "Duchess Eleanor of Threapwood is the mother of the king that the Lord of the Manor of Oakham, for whom Oakham Castle was constructed between 1180 and 1190, was principal captain to.",
+      "supporting_facts": [
+        [
+          "Walchelin de Ferriers",
+          0
+        ],
+        [
+          "Richard I of England",
+          2
+        ],
+        [
+          "Oakham Castle",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8e08ab5542995085b37393"
+    },
+    {
+      "uid": "0bc1571b-8ae1-4057-a291-d95524ed5b05",
+      "claim": "Duchess Eleanor of Aquitaine is the mother of the king that the Lord of the Manor of Oakham, for whom Oakham Castle was constructed in the 12th-century, was principal captain to.",
+      "supporting_facts": [
+        [
+          "Walchelin de Ferriers",
+          0
+        ],
+        [
+          "Richard I of England",
+          2
+        ],
+        [
+          "Oakham Castle",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8e08ab5542995085b37393"
+    },
+    {
+      "uid": "5238a954-dbbb-415c-9444-f1a1601f34c5",
+      "claim": "Sakis Rouvas  played the voice of Quasimodo in a Notre Dame's animated movie. Saludos Amigos was released before that film.",
+      "supporting_facts": [
+        [
+          "The Hunchback of Notre Dame (1996 film)",
+          0
+        ],
+        [
+          "Saludos Amigos",
+          0
+        ],
+        [
+          "Sakis Rouvas filmography",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab808755542990e739ec7f2"
+    },
+    {
+      "uid": "6659735f-41fb-490b-99d9-89e20335b3fb",
+      "claim": "Sakis Rouvas  played the voice of Jason Alexander in a Disney animated movie. Saludos Amigos was released before that film.",
+      "supporting_facts": [
+        [
+          "The Hunchback of Notre Dame (1996 film)",
+          0
+        ],
+        [
+          "Saludos Amigos",
+          0
+        ],
+        [
+          "Sakis Rouvas filmography",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab808755542990e739ec7f2"
+    },
+    {
+      "uid": "a88d418b-1de4-4ccf-a83a-c916f6cb37e0",
+      "claim": "Sakis Rouvas played the voice of Quasimodo in a Notre Dame's animated movie. The the prequel to The Three Caballeros was released before that film.",
+      "supporting_facts": [
+        [
+          "The Hunchback of Notre Dame (1996 film)",
+          0
+        ],
+        [
+          "Saludos Amigos",
+          0
+        ],
+        [
+          "Sakis Rouvas filmography",
+          0
+        ],
+        [
+          "The Three Caballeros",
+          4
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab808755542990e739ec7f2"
+    },
+    {
+      "uid": "ab8e5aef-eec6-4d3b-8aa6-f149ad1c9b2c",
+      "claim": "Sakis Rouvas played the voice of Quasimodo in a Disney animated movie. The the prequel to The Three Caballeros was released before that film.",
+      "supporting_facts": [
+        [
+          "The Hunchback of Notre Dame (1996 film)",
+          0
+        ],
+        [
+          "Saludos Amigos",
+          0
+        ],
+        [
+          "Sakis Rouvas filmography",
+          0
+        ],
+        [
+          "The Three Caballeros",
+          4
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab808755542990e739ec7f2"
+    },
+    {
+      "uid": "2ee92fa6-6c83-4c40-979d-fe774af9b3e2",
+      "claim": "Sakis Rouvas played the voice of Don Hahn in a Disney animated movie. The the prequel to The Three Caballeros was released before that film.",
+      "supporting_facts": [
+        [
+          "The Hunchback of Notre Dame (1996 film)",
+          0
+        ],
+        [
+          "Saludos Amigos",
+          0
+        ],
+        [
+          "Sakis Rouvas filmography",
+          0
+        ],
+        [
+          "The Three Caballeros",
+          4
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab808755542990e739ec7f2"
+    },
+    {
+      "uid": "7797d1b6-3247-43ad-8fa9-fd5b7c822731",
+      "claim": "The choreographer of La Vivandiere or Markitenka was the \"Ma\u00eetre de Ballet\" of this ballet company. Diana Vishneva is the principal ballet dancer for them,",
+      "supporting_facts": [
+        [
+          "Arthur Saint-L\u00e9on",
+          0
+        ],
+        [
+          "Mariinsky Ballet",
+          0
+        ],
+        [
+          "Mariinsky Ballet",
+          1
+        ],
+        [
+          "Mariinsky Ballet",
+          3
+        ],
+        [
+          "La Vivandi\u00e8re or Markitenka",
+          0
+        ],
+        [
+          "Diana Vishneva",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae6196d5542995703ce8afd"
+    },
+    {
+      "uid": "6bb82d82-690a-4f17-823d-8061e6d5b97f",
+      "claim": "The choreographer of La Vivandiere or Markitenka was the \"Ma\u00eetre de Ballet\" of this contemporary ballet company. Diana Vishneva is the principal ballet dancer for them,",
+      "supporting_facts": [
+        [
+          "Arthur Saint-L\u00e9on",
+          0
+        ],
+        [
+          "Mariinsky Ballet",
+          0
+        ],
+        [
+          "Mariinsky Ballet",
+          1
+        ],
+        [
+          "Mariinsky Ballet",
+          3
+        ],
+        [
+          "La Vivandi\u00e8re or Markitenka",
+          0
+        ],
+        [
+          "Diana Vishneva",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae6196d5542995703ce8afd"
+    },
+    {
+      "uid": "4e210a51-2695-4ca1-9a37-45bf5b0a94a9",
+      "claim": "A sport  magazine rated the Old Overton club as one of the \"Best New Private Courses\" in 1994. This magazine has been around longer than the publication which placed Daron Malakian 30th in their List of The 100 Greatest Heavy Metal Guitarists of All Time.",
+      "supporting_facts": [
+        [
+          "Guitar World",
+          0
+        ],
+        [
+          "Golf Digest",
+          0
+        ],
+        [
+          "Golf Digest",
+          3
+        ],
+        [
+          "Golf Digest",
+          5
+        ],
+        [
+          "Daron Malakian",
+          4
+        ],
+        [
+          "Old Overton",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7b40cd5542995eb53be8d4"
+    },
+    {
+      "uid": "d7a442a4-74c2-4d40-83da-93429a93cdf3",
+      "claim": "This publication listed System of a Down's guitarist 30th in their List of The 100 Greatest Heavy Metal Guitarists of All Time. This publication has not been around as long as the magazine, Golf Digest or Readers Digest.",
+      "supporting_facts": [
+        [
+          "Guitar World",
+          0
+        ],
+        [
+          "Golf Digest",
+          0
+        ],
+        [
+          "Golf Digest",
+          3
+        ],
+        [
+          "Golf Digest",
+          5
+        ],
+        [
+          "Daron Malakian",
+          4
+        ],
+        [
+          "System of a Down discography",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7b40cd5542995eb53be8d4"
+    },
+    {
+      "uid": "4f54cfa4-2788-4e8e-bb50-7732a0e05ce7",
+      "claim": "The pop act that had the album Merry, Merry Christmas had lead vocals by an Eagles singer and songwriter.",
+      "supporting_facts": [
+        [
+          "This One's for the Children",
+          1
+        ],
+        [
+          "Donnie Wahlberg",
+          0
+        ],
+        [
+          "Merry, Merry Christmas",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac3a2fa5542993915413857"
+    },
+    {
+      "uid": "ed2074f0-8205-4ee4-9ca9-34f102903960",
+      "claim": "The multinational company that Ralph Bahna serve as Chairman from 2004 to 2013 is in the discount travel market. The company which acquired Lucasfilm in 2012 is not in the discount travel market.",
+      "supporting_facts": [
+        [
+          "The Walt Disney Company",
+          0
+        ],
+        [
+          "Priceline.com",
+          0
+        ],
+        [
+          "Lucasfilm",
+          4
+        ],
+        [
+          "Ralph Bahna",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae1b3765542997283cd2249"
+    },
+    {
+      "uid": "03cf9369-fac9-4934-9b7e-77d63d1194f6",
+      "claim": "Priceline.com is a company in the discount travel market. The company which acquired Lucasfilm in March 2012 is not in the discount travel market.",
+      "supporting_facts": [
+        [
+          "The Walt Disney Company",
+          0
+        ],
+        [
+          "Priceline.com",
+          0
+        ],
+        [
+          "Lucasfilm",
+          4
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ae1b3765542997283cd2249"
+    },
+    {
+      "uid": "246ae6f4-bacf-42d6-aff4-dcb8e6f53457",
+      "claim": "The company that Ralph Bahna serve as Chairman from 2004 to 2013 is in the discount travel market. The company which acquired Lucasfilm in 2012 is not in the discount travel market.",
+      "supporting_facts": [
+        [
+          "The Walt Disney Company",
+          0
+        ],
+        [
+          "Priceline.com",
+          0
+        ],
+        [
+          "Lucasfilm",
+          4
+        ],
+        [
+          "Ralph Bahna",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae1b3765542997283cd2249"
+    },
+    {
+      "uid": "5dce8db8-2951-48e0-aab9-daec4597f9fc",
+      "claim": "Priceline.com is a company in the discount travel market. The company which acquired Lucasfilm in 2012 is not in the discount travel market.",
+      "supporting_facts": [
+        [
+          "The Walt Disney Company",
+          0
+        ],
+        [
+          "Priceline.com",
+          0
+        ],
+        [
+          "Lucasfilm",
+          4
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ae1b3765542997283cd2249"
+    },
+    {
+      "uid": "15e70efe-60cf-4a5b-b315-5292cdc76116",
+      "claim": "The Scadoxus plant not which Enkianthus campanulatus is the hardiest species is small enough. This plant could to be grown as an ornamental plant in containers.",
+      "supporting_facts": [
+        [
+          "Enkianthus",
+          0
+        ],
+        [
+          "Scadoxus",
+          3
+        ],
+        [
+          "Enkianthus campanulatus",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a90aa0555429916514e7516"
+    },
+    {
+      "uid": "3bfaa392-1c21-40bc-a92f-a3459d4e96ac",
+      "claim": "The Scadoxus plant not which Enkianthus campanulatus is the hardiest species to be small enough. This plant could to be grown as an ornamental plant in  tiny containers.",
+      "supporting_facts": [
+        [
+          "Enkianthus",
+          0
+        ],
+        [
+          "Scadoxus",
+          3
+        ],
+        [
+          "Enkianthus campanulatus",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a90aa0555429916514e7516"
+    },
+    {
+      "uid": "c70248cf-7b49-405b-a93e-c8bf4cf72a31",
+      "claim": "Highway Companion is the third solo studio album by a singer-songwriter. He has been a member of more bands than the drummer who replaced Murray Dalglish in The Jesus and Petty.",
+      "supporting_facts": [
+        [
+          "Tom Petty",
+          1
+        ],
+        [
+          "Bobby Gillespie",
+          1
+        ],
+        [
+          "Bobby Gillespie",
+          2
+        ],
+        [
+          "Highway Companion",
+          0
+        ],
+        [
+          "Murray Dalglish",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7bb3d9554299294a54aaa0"
+    },
+    {
+      "uid": "3ee2338a-2b75-4dd0-893a-dea2df1012b9",
+      "claim": "Highway Companion is the third solo studio album by a singer-songwriter. He has been a member of more bands than the drummer who replaced Murray Dalglish in The Jesus and Mary Chain.",
+      "supporting_facts": [
+        [
+          "Tom Petty",
+          1
+        ],
+        [
+          "Bobby Gillespie",
+          1
+        ],
+        [
+          "Bobby Gillespie",
+          2
+        ],
+        [
+          "Highway Companion",
+          0
+        ],
+        [
+          "Murray Dalglish",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7bb3d9554299294a54aaa0"
+    },
+    {
+      "uid": "01c18401-a795-4df5-bf16-898104178c09",
+      "claim": "Highway Companion is the third solo studio album by a singer-songwriter. He has been a member of more bands than the drummer who replaced Murray Dalglish in The Petty and Mary Chain.",
+      "supporting_facts": [
+        [
+          "Tom Petty",
+          1
+        ],
+        [
+          "Bobby Gillespie",
+          1
+        ],
+        [
+          "Bobby Gillespie",
+          2
+        ],
+        [
+          "Highway Companion",
+          0
+        ],
+        [
+          "Murray Dalglish",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a7bb3d9554299294a54aaa0"
+    },
+    {
+      "uid": "be51e79a-27ed-480d-92a5-db2067d799b3",
+      "claim": "The friend of Jean Follain and Connie May Fowler had nothing in common.",
+      "supporting_facts": [
+        [
+          "Max Jacob",
+          0
+        ],
+        [
+          "Connie May Fowler",
+          0
+        ],
+        [
+          "Jean Follain",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ae27df25542992decbdcd2a"
+    },
+    {
+      "uid": "dfe86747-da31-4f7c-a8ff-5bde6ba813ef",
+      "claim": "The friend of Jean Follain and Connie May Fowler were both memoirists.",
+      "supporting_facts": [
+        [
+          "Max Jacob",
+          0
+        ],
+        [
+          "Connie May Fowler",
+          0
+        ],
+        [
+          "Jean Follain",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ae27df25542992decbdcd2a"
+    },
+    {
+      "uid": "75244e70-7fb3-4034-b4b4-31ad9d11c6b2",
+      "claim": "The presenter of the series Doc Zone is not from the same country as another literary figure. The other literary figure wrote \"The Sign in Sidney Brustein's Window\".",
+      "supporting_facts": [
+        [
+          "Lorraine Hansberry",
+          0
+        ],
+        [
+          "Ann-Marie MacDonald",
+          0
+        ],
+        [
+          "The Sign in Sidney Brustein's Window",
+          0
+        ],
+        [
+          "Doc Zone",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a856c9d5542997b5ce3fff8"
+    },
+    {
+      "uid": "1b5d5ccd-7f3f-4bc2-9d78-fca619887696",
+      "claim": "Italian Ann-Marie MacDonald is not from the same country as another literary figure. The other literary figure wrote \"The Sign in Sidney Brustein's Window\".",
+      "supporting_facts": [
+        [
+          "Lorraine Hansberry",
+          0
+        ],
+        [
+          "Ann-Marie MacDonald",
+          0
+        ],
+        [
+          "The Sign in Sidney Brustein's Window",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a856c9d5542997b5ce3fff8"
+    },
+    {
+      "uid": "00664b8c-bdca-4943-8ec0-93add989bb77",
+      "claim": "Nonso Anozie played a character in the 2016 film A Midsummer Night's Dream. That character was also the name of Silvana opera.",
+      "supporting_facts": [
+        [
+          "Christoph Martin Wieland",
+          1
+        ],
+        [
+          "Oberon",
+          0
+        ],
+        [
+          "A Midsummer Night's Dream (2016 film)",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5add563e5542992ae4cec513"
+    },
+    {
+      "uid": "40905b8e-439b-4b36-97fb-452db6b7a484",
+      "claim": "Nonso Anozie played a character in the 2016 film A Midsummer Night's Dream. That character was also the name of Carl Maria von Weber's opera.",
+      "supporting_facts": [
+        [
+          "Christoph Martin Wieland",
+          1
+        ],
+        [
+          "Oberon",
+          0
+        ],
+        [
+          "A Midsummer Night's Dream (2016 film)",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5add563e5542992ae4cec513"
+    },
+    {
+      "uid": "0f8dab34-86a6-46fb-9b0c-4f02927ff75d",
+      "claim": "Lyndey Milan was the Food Director for this quarterly publication. It is published by the company that publishes Empire (film magazine), not Godey's Lady's Book.",
+      "supporting_facts": [
+        [
+          "The Australian Women's Weekly",
+          0
+        ],
+        [
+          "Godey's Lady's Book",
+          0
+        ],
+        [
+          "Lyndey Milan",
+          2
+        ],
+        [
+          "Empire (film magazine)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab861715542990e739ec8d6"
+    },
+    {
+      "uid": "e1e38fc1-dc88-4059-b053-9fdf8e366df4",
+      "claim": "A man was the Food Director for this publication. It is published by Bauer Media Pty Ltd., not Godey's Lady's Book. The man stars in Lyndey and Blair's Taste of Greece.",
+      "supporting_facts": [
+        [
+          "The Australian Women's Weekly",
+          0
+        ],
+        [
+          "Godey's Lady's Book",
+          0
+        ],
+        [
+          "Lyndey Milan",
+          2
+        ],
+        [
+          "Lyndey and Blair's Taste of Greece",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab861715542990e739ec8d6"
+    },
+    {
+      "uid": "29926af1-4297-4645-b193-81467f9049e6",
+      "claim": "A man was the Food Director for this publication. It is published by Bauer Media Group, not Godey's Lady's Book. The man stars in Lyndey and Blair's Taste of Greece.",
+      "supporting_facts": [
+        [
+          "The Australian Women's Weekly",
+          0
+        ],
+        [
+          "Godey's Lady's Book",
+          0
+        ],
+        [
+          "Lyndey Milan",
+          2
+        ],
+        [
+          "Lyndey and Blair's Taste of Greece",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab861715542990e739ec8d6"
+    },
+    {
+      "uid": "6a271278-c392-47b6-9268-24066f91d3d3",
+      "claim": "Lyndey Milan was the Food Director for this publication. It is published by Emap Consumer Media, not Godey's Lady's Book.",
+      "supporting_facts": [
+        [
+          "The Australian Women's Weekly",
+          0
+        ],
+        [
+          "Godey's Lady's Book",
+          0
+        ],
+        [
+          "Lyndey Milan",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab861715542990e739ec8d6"
+    },
+    {
+      "uid": "efbf9033-a8fe-4f47-80a0-e9d41a98ad5f",
+      "claim": "The director of the 2017 American 15-rated film Lucky was an actor from The Drew Carey Show. He also starred in The Founder.",
+      "supporting_facts": [
+        [
+          "John Carroll Lynch",
+          2
+        ],
+        [
+          "The Founder",
+          2
+        ],
+        [
+          "Lucky (2017 American film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8b39c35542997f31a41cbb"
+    },
+    {
+      "uid": "e48f8142-0662-443b-a981-90ce0510e1e9",
+      "claim": "The director of the 2017 American film Lucky was an actor from a television show of which 'Drew's in a Coma' was the title of the 142nd overall episode. He also starred in The Founder.",
+      "supporting_facts": [
+        [
+          "John Carroll Lynch",
+          2
+        ],
+        [
+          "The Founder",
+          2
+        ],
+        [
+          "Lucky (2017 American film)",
+          0
+        ],
+        [
+          "Drew's in a Coma",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8b39c35542997f31a41cbb"
+    },
+    {
+      "uid": "c9934b29-4392-495c-bd43-0772b2bbe63e",
+      "claim": "The director of the 2017 American film Lucky was an actor from The Drew Carey Show. He also starred in The Founder.",
+      "supporting_facts": [
+        [
+          "John Carroll Lynch",
+          2
+        ],
+        [
+          "The Founder",
+          2
+        ],
+        [
+          "Lucky (2017 American film)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8b39c35542997f31a41cbb"
+    },
+    {
+      "uid": "1c0b00ba-572f-4009-8dd4-894afe9dbe7d",
+      "claim": "The director of the 2017 American film Lucky was an actor from a television show of which 'Drew's in a Coma' was the title of the 142nd overall episode. He also starred in the Broadway musical The Founder.",
+      "supporting_facts": [
+        [
+          "John Carroll Lynch",
+          2
+        ],
+        [
+          "The Founder",
+          2
+        ],
+        [
+          "Lucky (2017 American film)",
+          0
+        ],
+        [
+          "Drew's in a Coma",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8b39c35542997f31a41cbb"
+    },
+    {
+      "uid": "846272fe-26e2-4326-90bf-7302795b253a",
+      "claim": "This company was acquired by RBC and is where John G. Taft was employed. It was founded before the company Johann Berenberg was co-owner of from 1748.",
+      "supporting_facts": [
+        [
+          "Dain Rauscher Wessels",
+          0
+        ],
+        [
+          "Dain Rauscher Wessels",
+          1
+        ],
+        [
+          "Berenberg Bank",
+          2
+        ],
+        [
+          "John G. Taft",
+          3
+        ],
+        [
+          "Johann Berenberg",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a72224755429971e9dc92be"
+    },
+    {
+      "uid": "3295f014-8eef-430b-a2bd-c90211d6f990",
+      "claim": "The Byzantyne mosque that is like Vefa Kilise and Galata Bridge are both located in Istanbul.",
+      "supporting_facts": [
+        [
+          "Kalenderhane Mosque",
+          0
+        ],
+        [
+          "Galata Bridge",
+          0
+        ],
+        [
+          "Vefa",
+          3
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adc69ef554299438c868daf"
+    },
+    {
+      "uid": "c8bbaa55-a08d-4e51-a477-1e387a75118c",
+      "claim": "The Byzantyne mosque that is like Vefa Kilise and the single-span Galata Bridge are both located in Istanbul.",
+      "supporting_facts": [
+        [
+          "Kalenderhane Mosque",
+          0
+        ],
+        [
+          "Galata Bridge",
+          0
+        ],
+        [
+          "Vefa",
+          3
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adc69ef554299438c868daf"
+    },
+    {
+      "uid": "abbc5574-abc9-48a4-a5fc-9048dca24d98",
+      "claim": "Orontioideae is a subfamily of white flowering plants in the Araceae family. One to two species of skunk cabbage from North America and Asia belong to that subfamily. That subfamily and Ageratum genus are not in the same family.",
+      "supporting_facts": [
+        [
+          "Lysichiton",
+          0
+        ],
+        [
+          "Ageratum",
+          0
+        ],
+        [
+          "Orontioideae",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab373d6554299233954ff53"
+    },
+    {
+      "uid": "cf308e95-cb87-41c9-b420-edae75a443e6",
+      "claim": "Orontioideae is a subfamily of flowering plants in a family. One to two species of skunk cabbage from North America and Asia belong to that subfamily. That subfamily and Ageratum genus are not in the same family. Arisaema candidissimum is a member of the original family.",
+      "supporting_facts": [
+        [
+          "Lysichiton",
+          0
+        ],
+        [
+          "Ageratum",
+          0
+        ],
+        [
+          "Orontioideae",
+          1
+        ],
+        [
+          "Arisaema candidissimum",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab373d6554299233954ff53"
+    },
+    {
+      "uid": "54a12626-311e-4d4b-acfd-4ca304518959",
+      "claim": "Orontioideae is a subfamily of flowering plants in a family. One to two species of skunk cabbage from North America and Asia belong to that subfamily. That subfamily and Ageratum genus are not in the same family. Arisaema candidissimum lettuce is a member of the original family.",
+      "supporting_facts": [
+        [
+          "Lysichiton",
+          0
+        ],
+        [
+          "Ageratum",
+          0
+        ],
+        [
+          "Orontioideae",
+          1
+        ],
+        [
+          "Arisaema candidissimum",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab373d6554299233954ff53"
+    },
+    {
+      "uid": "8b248b40-8b30-4927-a01e-da0a57e61493",
+      "claim": "The railroad that connects with Yancey Railroad was completed in 1915 commonly used Challengers.",
+      "supporting_facts": [
+        [
+          "4-6-6-4",
+          1
+        ],
+        [
+          "Clinchfield Railroad",
+          2
+        ],
+        [
+          "Yancey Railroad",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7a03225542996c55b2dcd5"
+    },
+    {
+      "uid": "496ce64d-ff81-429f-9546-6b56cd82b052",
+      "claim": "The request-stop railroad that connects with Yancey Railroad was completed in 1915 commonly used Challengers.",
+      "supporting_facts": [
+        [
+          "4-6-6-4",
+          1
+        ],
+        [
+          "Clinchfield Railroad",
+          2
+        ],
+        [
+          "Yancey Railroad",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7a03225542996c55b2dcd5"
+    },
+    {
+      "uid": "e09f8fc9-5120-4761-8ae2-ace28d8fc8e4",
+      "claim": "Cork has several third level colleges including NMIO, the Crawford College of Art and Design and one other. The 2016 population of the county where the other school is located was 542,196.",
+      "supporting_facts": [
+        [
+          "National Maritime College of Ireland",
+          1
+        ],
+        [
+          "County Cork",
+          5
+        ],
+        [
+          "Education in Cork",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ae02b3d55429924de1b7043"
+    },
+    {
+      "uid": "1bb7c314-aa22-4645-af02-710dd53080ff",
+      "claim": "The home of Sir John Cutts who died in 1615 is a house at a parish 18.7 miles from central London.",
+      "supporting_facts": [
+        [
+          "Shenley Hall",
+          0
+        ],
+        [
+          "Shenley, Hertfordshire",
+          1
+        ],
+        [
+          "John Cutts (died 1615)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a9051615542995651fb5136"
+    },
+    {
+      "uid": "b750050b-11e7-4b37-abbb-11bcc0db0705",
+      "claim": "The home of Sir John Cutts who died in 1615 is a house at a parish 18.7 miles from central London.",
+      "supporting_facts": [
+        [
+          "Shenley Hall",
+          0
+        ],
+        [
+          "Shenley, Hertfordshire",
+          1
+        ],
+        [
+          "John Cutts (died 1615)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a9051615542995651fb5136"
+    },
+    {
+      "uid": "253cdd36-2dfa-4951-9346-d7add7a4fa69",
+      "claim": "Pelle Almqvist and another singer are not from the same country. This other singer was a producer on An Omen EP.",
+      "supporting_facts": [
+        [
+          "Mariqueen Maandig",
+          0
+        ],
+        [
+          "Pelle Almqvist",
+          0
+        ],
+        [
+          "An Omen EP",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab3384255429916697741a5"
+    },
+    {
+      "uid": "809c41a0-0d60-4724-937e-c06ce8e55a68",
+      "claim": "Pelle Almqvist and another singer are not from Canada. This other singer was a producer on a record. \"Ice Age\" is a song from this record.",
+      "supporting_facts": [
+        [
+          "Mariqueen Maandig",
+          0
+        ],
+        [
+          "Pelle Almqvist",
+          0
+        ],
+        [
+          "An Omen EP",
+          1
+        ],
+        [
+          "Ice Age (song)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab3384255429916697741a5"
+    },
+    {
+      "uid": "85702622-9129-4025-8308-2ee59dba1855",
+      "claim": "Pelle Almqvist and another singer are not from the same country. This other singer was a producer on An Omen EP in June 2012.",
+      "supporting_facts": [
+        [
+          "Mariqueen Maandig",
+          0
+        ],
+        [
+          "Pelle Almqvist",
+          0
+        ],
+        [
+          "An Omen EP",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab3384255429916697741a5"
+    },
+    {
+      "uid": "f79971ba-50ca-48ae-ad04-369da7454250",
+      "claim": "Pelle Almqvist and another singer are not from the same country. This other singer was a producer on a record. \"Ice Age\" is a song from this record.",
+      "supporting_facts": [
+        [
+          "Mariqueen Maandig",
+          0
+        ],
+        [
+          "Pelle Almqvist",
+          0
+        ],
+        [
+          "An Omen EP",
+          1
+        ],
+        [
+          "Ice Age (song)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab3384255429916697741a5"
+    },
+    {
+      "uid": "c38bb1a0-0825-4a35-a5e9-9698fdf6a89c",
+      "claim": "Rosario Dawson made her film debut in the 1995 teen drama \"Kids\". She also starred in a movie with the actress from My First Wedding?",
+      "supporting_facts": [
+        [
+          "Josie and the Pussycats (film)",
+          2
+        ],
+        [
+          "Rosario Dawson",
+          1
+        ],
+        [
+          "Rachael Leigh Cook",
+          0
+        ],
+        [
+          "My First Wedding (2006 film)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abd69ce5542993062266c7f"
+    },
+    {
+      "uid": "b9cc9092-3749-4607-8bdf-420b32c82239",
+      "claim": "Rosario Dawson made her film debut in the critically acclaimed 1995 teen drama \"Kids\". She also starred in a movie with the actress from My First Wedding.",
+      "supporting_facts": [
+        [
+          "Josie and the Pussycats (film)",
+          2
+        ],
+        [
+          "Rosario Dawson",
+          1
+        ],
+        [
+          "Rachael Leigh Cook",
+          0
+        ],
+        [
+          "My First Wedding (2006 film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abd69ce5542993062266c7f"
+    },
+    {
+      "uid": "05b2ff8d-7839-4c3b-ab2f-675d4afcac43",
+      "claim": "Rosario Dawson made her film debut in the 1995 teen drama \"Kids\". She also starred in a movie with the British actress from My First Wedding?.",
+      "supporting_facts": [
+        [
+          "Josie and the Pussycats (film)",
+          2
+        ],
+        [
+          "Rosario Dawson",
+          1
+        ],
+        [
+          "Rachael Leigh Cook",
+          0
+        ],
+        [
+          "My First Wedding (2006 film)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abd69ce5542993062266c7f"
+    },
+    {
+      "uid": "9343768e-c0bd-4b3d-beb3-06abcc2c7bf3",
+      "claim": "Actress and athlete Rosario Dawson, of the movie that starred Rachael Leigh Cook, made her film debut in the 1995 teen drama \"Kids\".",
+      "supporting_facts": [
+        [
+          "Josie and the Pussycats (film)",
+          2
+        ],
+        [
+          "Rosario Dawson",
+          1
+        ],
+        [
+          "Rachael Leigh Cook",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abd69ce5542993062266c7f"
+    },
+    {
+      "uid": "e79961ce-4d9f-4c61-adf2-64f19ddd04eb",
+      "claim": "Rosario Dawson, of the movie that starred Rachael Leigh Cook, made her film debut in the 90's teen drama \"Kids\".",
+      "supporting_facts": [
+        [
+          "Josie and the Pussycats (film)",
+          2
+        ],
+        [
+          "Rosario Dawson",
+          1
+        ],
+        [
+          "Rachael Leigh Cook",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abd69ce5542993062266c7f"
+    },
+    {
+      "uid": "485ac72e-3f95-440a-93ed-c65e3aca5141",
+      "claim": "The band who Strange Talk are likened to and Shearwater do not specialize in the exact same genre.",
+      "supporting_facts": [
+        [
+          "Phoenix (band)",
+          0
+        ],
+        [
+          "Shearwater (band)",
+          0
+        ],
+        [
+          "Strange Talk",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab9aed855429970cfb8eb6d"
+    },
+    {
+      "uid": "ddc79abc-4795-492f-8fea-fc19ce0dc786",
+      "claim": "Dane County Regional Airport is nearer to its local town than the airport near the four-lane Interstate 687.",
+      "supporting_facts": [
+        [
+          "Albany International Airport",
+          0
+        ],
+        [
+          "Dane County Regional Airport",
+          0
+        ],
+        [
+          "Interstate 687",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab439f055429942dd415eef"
+    },
+    {
+      "uid": "7a037d71-f6e2-4b40-b87c-01620e7126b2",
+      "claim": "This airport is nearer to its local town than the airport near toll highway Interstate 687. The Truax Field Air National Guard Base is also located at that airport.",
+      "supporting_facts": [
+        [
+          "Albany International Airport",
+          0
+        ],
+        [
+          "Dane County Regional Airport",
+          0
+        ],
+        [
+          "Interstate 687",
+          1
+        ],
+        [
+          "Truax Field Air National Guard Base",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab439f055429942dd415eef"
+    },
+    {
+      "uid": "dbb63c14-949d-4893-bbbf-d5497156eccd",
+      "claim": "This airport is nearer to its local town than the airport near Interstate 687. The Truax Field Air National Guard Base is also located at that airport.",
+      "supporting_facts": [
+        [
+          "Albany International Airport",
+          0
+        ],
+        [
+          "Dane County Regional Airport",
+          0
+        ],
+        [
+          "Interstate 687",
+          1
+        ],
+        [
+          "Truax Field Air National Guard Base",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab439f055429942dd415eef"
+    },
+    {
+      "uid": "663d5576-831e-4520-aa0f-47bb7827b753",
+      "claim": "A plant genus has more species than the Fouquieria genus. This genus formerly included the species Dittrichia.",
+      "supporting_facts": [
+        [
+          "Inula",
+          0
+        ],
+        [
+          "Fouquieria",
+          0
+        ],
+        [
+          "Dittrichia",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab26ed65542993be8fa9913"
+    },
+    {
+      "uid": "631513e8-dc29-4ca4-97f0-fa6f84027c37",
+      "claim": "The player that won the 2007 Hamburg Masters badminton doubles title with Bob Bryan and Ray Ruffels are both tennis players.",
+      "supporting_facts": [
+        [
+          "Mike Bryan",
+          0
+        ],
+        [
+          "Ray Ruffels",
+          0
+        ],
+        [
+          "2007 Hamburg Masters",
+          5
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ab7c3ed5542991d322237b2"
+    },
+    {
+      "uid": "75bcfd48-5b0e-4df0-8997-a01ba6a823f5",
+      "claim": "The player that won the 2007 Hamburg Masters doubles title with another player and Ray Ruffels are both tennis players. Vera Zvonareva partnered this other player in  the 2004 US Open.",
+      "supporting_facts": [
+        [
+          "Mike Bryan",
+          0
+        ],
+        [
+          "Ray Ruffels",
+          0
+        ],
+        [
+          "2007 Hamburg Masters",
+          5
+        ],
+        [
+          "Vera Zvonareva",
+          7
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab7c3ed5542991d322237b2"
+    },
+    {
+      "uid": "8b488ecc-f90a-4d8c-8517-dd475366185a",
+      "claim": "The Cuban player that won the 2007 Hamburg Masters doubles title with another player and Ray Ruffels are both tennis players. Vera Zvonareva partnered this other player in the 2004 US Open.",
+      "supporting_facts": [
+        [
+          "Mike Bryan",
+          0
+        ],
+        [
+          "Ray Ruffels",
+          0
+        ],
+        [
+          "2007 Hamburg Masters",
+          5
+        ],
+        [
+          "Vera Zvonareva",
+          7
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab7c3ed5542991d322237b2"
+    },
+    {
+      "uid": "bfa0c980-75e7-485f-8eac-8e1cd5523ea6",
+      "claim": "The player that won the 2007 Hamburg Masters doubles title with Bob Bryan is a tennis player. As is the individual that William Bowrey lost in the quarterfinals to at the summer 1969 Australian Open \u2013 Men's Singles.",
+      "supporting_facts": [
+        [
+          "Mike Bryan",
+          0
+        ],
+        [
+          "Ray Ruffels",
+          0
+        ],
+        [
+          "2007 Hamburg Masters",
+          5
+        ],
+        [
+          "1969 Australian Open \u2013 Men's Singles",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ab7c3ed5542991d322237b2"
+    },
+    {
+      "uid": "2a1a149c-3d6e-4ea5-85b8-f4f142347939",
+      "claim": "A star of \"Hotline\" a 2014 film and Millard Webb do not share a profession.",
+      "supporting_facts": [
+        [
+          "Jeff Ragsdale",
+          0
+        ],
+        [
+          "Millard Webb",
+          0
+        ],
+        [
+          "Hotline (2014 film)",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adc020a5542994650320c4c"
+    },
+    {
+      "uid": "1b556636-6f3b-4bd9-99a0-4849fea082ce",
+      "claim": "A star of \"Hotline\" a 2014 film and a director are not both authors. This director directed the fictional film \"The Love Thrill\".",
+      "supporting_facts": [
+        [
+          "Jeff Ragsdale",
+          0
+        ],
+        [
+          "Millard Webb",
+          0
+        ],
+        [
+          "Hotline (2014 film)",
+          2
+        ],
+        [
+          "The Love Thrill",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5adc020a5542994650320c4c"
+    },
+    {
+      "uid": "c2faf471-08cb-4473-8f06-c64e19cd4633",
+      "claim": "Browningia is a genus of cacti, the genus that European Helenieae is part of isn't.",
+      "supporting_facts": [
+        [
+          "Gaillardia",
+          0
+        ],
+        [
+          "Browningia",
+          0
+        ],
+        [
+          "Helenieae",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ade74285542992fa25da78c"
+    },
+    {
+      "uid": "ab56a968-a10d-4b00-819f-818edd9aa403",
+      "claim": "Browningia is a genus, the genus that Helenieae is part of isn't.",
+      "supporting_facts": [
+        [
+          "Gaillardia",
+          0
+        ],
+        [
+          "Browningia",
+          0
+        ],
+        [
+          "Helenieae",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ade74285542992fa25da78c"
+    },
+    {
+      "uid": "ff3835f0-8fe0-47b0-b6f8-bc6f4e808e89",
+      "claim": "Helianthodae is the supertribe of which this genus belongs. Browningia is a genus of flowering cacti, this genus isn't.",
+      "supporting_facts": [
+        [
+          "Gaillardia",
+          0
+        ],
+        [
+          "Browningia",
+          0
+        ],
+        [
+          "Helenieae",
+          1
+        ],
+        [
+          "Helianthodae",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ade74285542992fa25da78c"
+    },
+    {
+      "uid": "156d8ef9-1e11-4274-8f45-c1e022e0e3e6",
+      "claim": "Helianthodae is the supertribe of which this genus belongs. Browningia is a genus of cacti, this  genus isn't.",
+      "supporting_facts": [
+        [
+          "Gaillardia",
+          0
+        ],
+        [
+          "Browningia",
+          0
+        ],
+        [
+          "Helenieae",
+          1
+        ],
+        [
+          "Helianthodae",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ade74285542992fa25da78c"
+    },
+    {
+      "uid": "2668f3c0-e43b-4a6b-973f-2139fccaa3f4",
+      "claim": "Jane Mayer is writing a book about the billionaires who funded Citizens United (organization) and who control the second-largest privately owned company in the United States.",
+      "supporting_facts": [
+        [
+          "Dark Money (book)",
+          0
+        ],
+        [
+          "Koch family",
+          0
+        ],
+        [
+          "Citizens United (organization)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac0dcf25542996f0d89cc2c"
+    },
+    {
+      "uid": "82bf1f6e-2c6b-4465-81d8-fab11ccb4d59",
+      "claim": "Jane Mayer is writing a book about the billionaires who funded Citizens United (organization) and who control the third-largest privately owned company in the United States.",
+      "supporting_facts": [
+        [
+          "Dark Money (book)",
+          0
+        ],
+        [
+          "Koch family",
+          0
+        ],
+        [
+          "Citizens United (organization)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac0dcf25542996f0d89cc2c"
+    },
+    {
+      "uid": "fe744a4e-9d1e-463b-a41b-d8964e616475",
+      "claim": "Charles Koch is writing a book about the billionaires who funded the company that produced Occupy Unmasked. They control the second-largest privately owned company in the United States.",
+      "supporting_facts": [
+        [
+          "Dark Money (book)",
+          0
+        ],
+        [
+          "Koch family",
+          0
+        ],
+        [
+          "Citizens United (organization)",
+          0
+        ],
+        [
+          "Occupy Unmasked",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac0dcf25542996f0d89cc2c"
+    },
+    {
+      "uid": "fe992b70-efcb-4f62-abe0-c248ab22e690",
+      "claim": "Jane Mayer is writing a book about the billionaires who funded the company that produced Occupy Unmasked. They control the second-largest privately owned company in the United States.",
+      "supporting_facts": [
+        [
+          "Dark Money (book)",
+          0
+        ],
+        [
+          "Koch family",
+          0
+        ],
+        [
+          "Citizens United (organization)",
+          0
+        ],
+        [
+          "Occupy Unmasked",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac0dcf25542996f0d89cc2c"
+    },
+    {
+      "uid": "211a688e-ed62-4dd4-b6a3-e4bab618df30",
+      "claim": "The star of Playback (film) is an American film and television actor and musician. The actor played in Now You See It the 2005 Original Movie by Aly Michalka by a television company. American journalist Polly Frame is an announcer for the television company.",
+      "supporting_facts": [
+        [
+          "Johnny Pacar",
+          0
+        ],
+        [
+          "Johnny Pacar",
+          1
+        ],
+        [
+          "Now You See It...",
+          0
+        ],
+        [
+          "Now You See It...",
+          1
+        ],
+        [
+          "Playback (film)",
+          3
+        ],
+        [
+          "Polly Frame",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae7207a554299572ea54710"
+    },
+    {
+      "uid": "9ef190aa-4cf7-4d06-8f4f-f7de153f77ac",
+      "claim": "The star of Playback (film) is an American film and television actor and musician. The actor played in Now You See It the 2005 Original Movie by Aly Michalka by a television company. Polly Frame is an announcer for the television company.",
+      "supporting_facts": [
+        [
+          "Johnny Pacar",
+          0
+        ],
+        [
+          "Johnny Pacar",
+          1
+        ],
+        [
+          "Now You See It...",
+          0
+        ],
+        [
+          "Now You See It...",
+          1
+        ],
+        [
+          "Playback (film)",
+          3
+        ],
+        [
+          "Polly Frame",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae7207a554299572ea54710"
+    },
+    {
+      "uid": "084c7768-f73b-4ed8-a1a0-ca0fda730a0f",
+      "claim": "\"You're My Number One\" was the fourth and final single from this band. A member of that band and  Biff Byford are not both American singers.",
+      "supporting_facts": [
+        [
+          "Stacey McClean",
+          0
+        ],
+        [
+          "Biff Byford",
+          0
+        ],
+        [
+          "S Club 8",
+          1
+        ],
+        [
+          "You're My Number One",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8a13f45542992d82986e9e"
+    },
+    {
+      "uid": "cbd08253-828b-4c87-b851-cfe030d82749",
+      "claim": "A member of boy band S Club 8 and Biff Byford are not both American singers.",
+      "supporting_facts": [
+        [
+          "Stacey McClean",
+          0
+        ],
+        [
+          "Biff Byford",
+          0
+        ],
+        [
+          "S Club 8",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8a13f45542992d82986e9e"
+    },
+    {
+      "uid": "839538f1-25eb-4bd5-8248-3de1b356d84a",
+      "claim": "\"You're My Number One\" was the fourth and final single from this punk rock band. A member of that band and Biff Byford are not both American singers.",
+      "supporting_facts": [
+        [
+          "Stacey McClean",
+          0
+        ],
+        [
+          "Biff Byford",
+          0
+        ],
+        [
+          "S Club 8",
+          1
+        ],
+        [
+          "You're My Number One",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a8a13f45542992d82986e9e"
+    },
+    {
+      "uid": "f6657b6d-de55-43f3-a774-3d48dcd6b892",
+      "claim": "A member of S Club 8 and Biff Byford are not both singers.",
+      "supporting_facts": [
+        [
+          "Stacey McClean",
+          0
+        ],
+        [
+          "Biff Byford",
+          0
+        ],
+        [
+          "S Club 8",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a8a13f45542992d82986e9e"
+    },
+    {
+      "uid": "2e2d7b61-23e3-45c9-8fbf-c8d68d27f7ae",
+      "claim": "George Michael Dolenz was the a vocalist of the RCA Victor Studio. He was in between the husband of Nora Balling and the husband of Samantha Juste.",
+      "supporting_facts": [
+        [
+          "Thomas Anders",
+          0
+        ],
+        [
+          "Micky Dolenz",
+          0
+        ],
+        [
+          "Nora Balling",
+          0
+        ],
+        [
+          "Samantha Juste",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5add78bf5542992ae4cec57b"
+    },
+    {
+      "uid": "cc0bf06f-aceb-4850-b176-24d1e98474f2",
+      "claim": "George Michael Dolenz was the a vocalist of the Monkees. He was in between the husband of Nora Balling and the husband of Samantha Juste.",
+      "supporting_facts": [
+        [
+          "Thomas Anders",
+          0
+        ],
+        [
+          "Micky Dolenz",
+          0
+        ],
+        [
+          "Nora Balling",
+          0
+        ],
+        [
+          "Samantha Juste",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5add78bf5542992ae4cec57b"
+    },
+    {
+      "uid": "35fa7d2b-e88c-4388-908a-99aee9c21b44",
+      "claim": "In between the husband of Nora Balling and Micky Dolenz, George Michael Dolenz was the a member of the Monkees.",
+      "supporting_facts": [
+        [
+          "Thomas Anders",
+          0
+        ],
+        [
+          "Micky Dolenz",
+          0
+        ],
+        [
+          "Nora Balling",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5add78bf5542992ae4cec57b"
+    },
+    {
+      "uid": "438bcb0f-9070-4378-a2db-a0130a329cd9",
+      "claim": "In between the husband of Nora Balling and Micky Dolenz, George Michael Dolenz was the a vocalist of the RCA Victor Studio.",
+      "supporting_facts": [
+        [
+          "Thomas Anders",
+          0
+        ],
+        [
+          "Micky Dolenz",
+          0
+        ],
+        [
+          "Nora Balling",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5add78bf5542992ae4cec57b"
+    },
+    {
+      "uid": "cc1be5e3-e78a-4575-a147-5f5c7820b3c1",
+      "claim": "The star of The Big Year acted in a film with martial arts expert Tom Wu. He also voiced Lightning McQueen in the \"Cars\" franchise.",
+      "supporting_facts": [
+        [
+          "Shanghai Knights",
+          2
+        ],
+        [
+          "Owen Wilson",
+          3
+        ],
+        [
+          "Tom Wu",
+          2
+        ],
+        [
+          "The Big Year",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae68e9d55429908198fa60e"
+    },
+    {
+      "uid": "feb4217b-6c03-4b0a-b553-e256f7817747",
+      "claim": "The man associated with of Day of the Iguana worked as a comedian and not Norman Foster.",
+      "supporting_facts": [
+        [
+          "Henry Winkler",
+          0
+        ],
+        [
+          "Norman Foster (director)",
+          0
+        ],
+        [
+          "Day of the Iguana",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac3d2ac554299741d48a330"
+    },
+    {
+      "uid": "08b79dfd-9836-4b27-a43c-b0d55124352f",
+      "claim": "The writer of Day of the Iguana worked as a comedian. The director of Scotland Yard (1941 film) did not work as a comedian.",
+      "supporting_facts": [
+        [
+          "Henry Winkler",
+          0
+        ],
+        [
+          "Norman Foster (director)",
+          0
+        ],
+        [
+          "Day of the Iguana",
+          0
+        ],
+        [
+          "Scotland Yard (1941 film)",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac3d2ac554299741d48a330"
+    },
+    {
+      "uid": "5f430b07-9220-4492-8723-9ba878ee5bd1",
+      "claim": "The writer of Day of the Iguana worked as a stand-up comedian. The director of Scotland Yard (1941 film) did not work as a comedian.",
+      "supporting_facts": [
+        [
+          "Henry Winkler",
+          0
+        ],
+        [
+          "Norman Foster (director)",
+          0
+        ],
+        [
+          "Day of the Iguana",
+          0
+        ],
+        [
+          "Scotland Yard (1941 film)",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac3d2ac554299741d48a330"
+    },
+    {
+      "uid": "60c9f365-12ff-4328-90d7-5caebef34a3b",
+      "claim": "Dean Ambrose and his wrestling partner are the current champions of the competition won byCurtix Axel and his partner in  July of 2011. His partner has been a WWE star, not Jirair Hovnanian.",
+      "supporting_facts": [
+        [
+          "Seth Rollins",
+          0
+        ],
+        [
+          "Jirair Hovnanian",
+          0
+        ],
+        [
+          "WWE Raw Tag Team Championship",
+          2
+        ],
+        [
+          "Curtis Axel",
+          3
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5adf37725542995ec70e8f96"
+    },
+    {
+      "uid": "75235b5d-f244-4252-baa0-006a19acc767",
+      "claim": "Dean Ambrose and his wrestling partner are the current champions of the Canadian WWE Raw Tag Team Championship. His partner has been a WWE star, not Jirair Hovnanian.",
+      "supporting_facts": [
+        [
+          "Seth Rollins",
+          0
+        ],
+        [
+          "Jirair Hovnanian",
+          0
+        ],
+        [
+          "WWE Raw Tag Team Championship",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adf37725542995ec70e8f96"
+    },
+    {
+      "uid": "20effdc5-940e-4acc-acfc-2a15ce7ac687",
+      "claim": "Dean Ambrose and his wrestling partner are the current champions of the WWE Raw Tag Team Championship. His partner has been an organisation's star, not Jirair Hovnanian. Kofi Kingston is signed to this organization.",
+      "supporting_facts": [
+        [
+          "Seth Rollins",
+          0
+        ],
+        [
+          "Jirair Hovnanian",
+          0
+        ],
+        [
+          "WWE Raw Tag Team Championship",
+          2
+        ],
+        [
+          "Kofi Kingston",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5adf37725542995ec70e8f96"
+    },
+    {
+      "uid": "11255d28-37f1-4b19-9b44-53ff95d598fd",
+      "claim": "Dean Ambrose and his wrestling partner are the  current champions of the  WWE Raw Tag Team Championship. His partner has been a WWE star, not Jirair Hovnanian.",
+      "supporting_facts": [
+        [
+          "Seth Rollins",
+          0
+        ],
+        [
+          "Jirair Hovnanian",
+          0
+        ],
+        [
+          "WWE Raw Tag Team Championship",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adf37725542995ec70e8f96"
+    },
+    {
+      "uid": "d264435b-f1f8-475f-986e-c5f7d365bed9",
+      "claim": "Wesley Snipes and his wrestling partner are the current champions of the WWE Raw Tag Team Championship. His partner has been an organisation's star, not Jirair Hovnanian. Kofi Kingston is signed to this organization.",
+      "supporting_facts": [
+        [
+          "Seth Rollins",
+          0
+        ],
+        [
+          "Jirair Hovnanian",
+          0
+        ],
+        [
+          "WWE Raw Tag Team Championship",
+          2
+        ],
+        [
+          "Kofi Kingston",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5adf37725542995ec70e8f96"
+    },
+    {
+      "uid": "a6f6bc65-32f6-4b56-99d9-4f5c33e38d82",
+      "claim": "Steve Siegel and his partner won the Cedar Grove Open. The partner and defending champion of the 1996 US Open \u2013 Mixed Doubles both play tennis.",
+      "supporting_facts": [
+        [
+          "Kim Warwick",
+          0
+        ],
+        [
+          "Matt Lucena",
+          0
+        ],
+        [
+          "Cedar Grove Open",
+          2
+        ],
+        [
+          "1996 US Open \u2013 Mixed Doubles",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abc00f65542993f40c73c40"
+    },
+    {
+      "uid": "d424336a-9fe2-4fd0-aca7-d6223c239d74",
+      "claim": "Steve Siegel and his partner won the Cedar Grove Open in straight sets. The partner and defending champion of the 1996 US Open \u2013 Mixed Doubles both play tennis.",
+      "supporting_facts": [
+        [
+          "Kim Warwick",
+          0
+        ],
+        [
+          "Matt Lucena",
+          0
+        ],
+        [
+          "Cedar Grove Open",
+          2
+        ],
+        [
+          "1996 US Open \u2013 Mixed Doubles",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abc00f65542993f40c73c40"
+    },
+    {
+      "uid": "e25e9921-8d50-40e9-a927-f95382178dfb",
+      "claim": "Steve Siegel and his partner won the 2011 Cedar Grove Open. The partner and Matt Lucena both play tennis.",
+      "supporting_facts": [
+        [
+          "Kim Warwick",
+          0
+        ],
+        [
+          "Matt Lucena",
+          0
+        ],
+        [
+          "Cedar Grove Open",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abc00f65542993f40c73c40"
+    },
+    {
+      "uid": "814b7038-7d42-4fd7-bdb1-af33720d4cf5",
+      "claim": "Ted Turner founded a news channel in 1968. The person who contributed with Marianne Schnall the piece \"Cyberfeminism: Networking the Net\" to the 2003 anthology \"\" has appeared on this news channel.",
+      "supporting_facts": [
+        [
+          "Amy Richards",
+          2
+        ],
+        [
+          "CNN",
+          1
+        ],
+        [
+          "Marianne Schnall",
+          4
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a892d41554299669944a4e8"
+    },
+    {
+      "uid": "3d3a13b5-7b46-48b6-aa33-5e23ccd69942",
+      "claim": "The 2010 Insight Bowl was the 22nd edition, of the college football bowl game, played at Sun Devil Stadium in Tempe, Arizona on Tuesday, December 28, 2010, it featured the 2010 Missouri Tigers football team that represented the University of Missouri, in the 2010 NCAA Division I FBS football season.",
+      "supporting_facts": [
+        [
+          "2010 Insight Bowl",
+          1
+        ],
+        [
+          "2010 Missouri Tigers football team",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a83425b55429954d2e2ec70"
+    },
+    {
+      "uid": "7c52ebd7-33ad-4c81-a373-c5ff3ae86d4b",
+      "claim": "The male singer, Phil Collins, performed together with a female American singer, who was born in 1954 and whose third studio album was named Through His Eyes, have a hit duet with in 1985.",
+      "supporting_facts": [
+        [
+          "Through His Eyes",
+          0
+        ],
+        [
+          "Marilyn Martin",
+          0
+        ],
+        [
+          "Marilyn Martin",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8db788554299653c1aa145"
+    },
+    {
+      "uid": "b10528f4-94cf-411e-ba86-372f749c5a75",
+      "claim": "The driver, who won the Nation's Cup with Petter Solberg, in the 2014 Race of Champions, won the 24 Hours of Le Mans nine times.",
+      "supporting_facts": [
+        [
+          "2014 Race of Champions",
+          1
+        ],
+        [
+          "Tom Kristensen (racing driver)",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ade4b6d554299728e26c6b5"
+    },
+    {
+      "uid": "effcc900-9114-4f72-902b-59a3ee7627fb",
+      "claim": "Faith Goldy got fired after an interview she gave on The Daily Stormer, the production site edited by Andrew Anglin.",
+      "supporting_facts": [
+        [
+          "Faith Goldy",
+          0
+        ],
+        [
+          "Faith Goldy",
+          2
+        ],
+        [
+          "The Daily Stormer",
+          0
+        ],
+        [
+          "The Daily Stormer",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab3a83d5542992ade7c6e08"
+    },
+    {
+      "uid": "de0425e6-fbe9-44e8-84b9-3a8867a779c6",
+      "claim": "Meomi Design works include The Octonauts book series and the adaptations of the series continue as a British children's television series.",
+      "supporting_facts": [
+        [
+          "Meomi Design",
+          0
+        ],
+        [
+          "Meomi Design",
+          1
+        ],
+        [
+          "The Octonauts",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae684fe5542991bbc97610e"
+    },
+    {
+      "uid": "cdfd2054-5d4e-43d6-b590-3ea3fff66b0d",
+      "claim": "ABC1 and ABC2 were the channels that the cartoon that Nicholas Boshier developed with Anthony MacFarlane and Jarod Green broadcast on.",
+      "supporting_facts": [
+        [
+          "Nicholas Boshier",
+          2
+        ],
+        [
+          "Beached Az",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac18baa5542991316484b33"
+    },
+    {
+      "uid": "c7a5ae49-2249-437f-b022-45e016aa87bf",
+      "claim": "Shayang County and Mengzhou are both in China.",
+      "supporting_facts": [
+        [
+          "Shayang County",
+          0
+        ],
+        [
+          "Mengzhou",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abe70cd55429965af743f08"
+    },
+    {
+      "uid": "57e4cb26-fdb1-4857-97b1-adfb3d422dea",
+      "claim": "Paul Avery wrote about a woman captured by the Symbionese Liberation Army.",
+      "supporting_facts": [
+        [
+          "Paul Avery",
+          0
+        ],
+        [
+          "Patty Hearst",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a729cc25542991f9a20c532"
+    },
+    {
+      "uid": "4d56cd43-cb60-4fe6-95e4-eac3b506e8cb",
+      "claim": "Jorge Leal Amado de Faria was born before James Leo Herlihy.",
+      "supporting_facts": [
+        [
+          "Jorge Amado",
+          0
+        ],
+        [
+          "James Leo Herlihy",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7bacf35542997c3ec9724b"
+    },
+    {
+      "uid": "4c25b6e3-5f01-43cf-9460-a790b08a80fa",
+      "claim": "The driver who placed third in the 2003 Italian Grand Prix won at the Grand Prix 11 times.",
+      "supporting_facts": [
+        [
+          "2003 Italian Grand Prix",
+          3
+        ],
+        [
+          "Rubens Barrichello",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a79fbd3554299029c4b5f93"
+    },
+    {
+      "uid": "e855a545-14ac-4075-9172-b75aa0ae41cb",
+      "claim": "The opera Parsifal has more acts than Manon by Massenet.",
+      "supporting_facts": [
+        [
+          "Parsifal",
+          0
+        ],
+        [
+          "Manon",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8d8eb5554299068b959d3a"
+    },
+    {
+      "uid": "fb9fa55c-8177-499f-95d5-6eebe71c0e2e",
+      "claim": "Lincoln was the cloth town in the high Middle Ages that gives the name to the dye associated with the man who is said to rob from the rich and give to the poor.",
+      "supporting_facts": [
+        [
+          "Robin Hood",
+          1
+        ],
+        [
+          "Lincoln green",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a74e5aa5542996c70cfae2e"
+    },
+    {
+      "uid": "9976aa26-4cfe-4fe4-92b6-49470df1949d",
+      "claim": "The Australian-American actress who appeared in the movie \"Felony\" played Angel Parrish in the Australian soap opera \"Home and Away.",
+      "supporting_facts": [
+        [
+          "Felony (film)",
+          2
+        ],
+        [
+          "Melissa George",
+          0
+        ],
+        [
+          "Melissa George",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abac35055429901930fa8ae"
+    },
+    {
+      "uid": "3b30dd18-f194-46f5-8e22-d802d197a5d1",
+      "claim": "Jesper Myrfors was the person born in Sweden 1964 that founded Hidden City Entertainment in 2004.",
+      "supporting_facts": [
+        [
+          "Hidden City Entertainment",
+          0
+        ],
+        [
+          "Jesper Myrfors",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a77e2095542995d8318131d"
+    },
+    {
+      "uid": "22049546-f32c-4bf4-85e8-6b385ad53632",
+      "claim": "Vices and Virtues, coincidentally released just four days after \"Vices & Virtues\" by Las Vegas band Panic! at the Disco, was the second studio album by the Canadian rock band Art of Dying.",
+      "supporting_facts": [
+        [
+          "Vices and Virtues (Art of Dying album)",
+          0
+        ],
+        [
+          "Vices and Virtues (Art of Dying album)",
+          2
+        ],
+        [
+          "Panic! at the Disco",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8ad2f3554299515336138d"
+    },
+    {
+      "uid": "79801732-cdbd-4079-a716-cf02f93f9604",
+      "claim": "A man known as one of the most brutal pro-Confederate guerrilla leaders in the American Civil War had a following that included a bank and train robber from western Missouri raised in Little Dixie.",
+      "supporting_facts": [
+        [
+          "Jesse James",
+          0
+        ],
+        [
+          "Jesse James",
+          1
+        ],
+        [
+          "William T. Anderson",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7f79155542995d8a8dde86"
+    },
+    {
+      "uid": "56118dad-30ac-48dc-8e11-a00ffbc9f3e6",
+      "claim": "Jomar Brun contributed to an operation designed to prevent the German nuclear weapon project producing nuclear weapons.",
+      "supporting_facts": [
+        [
+          "Jomar Brun",
+          4
+        ],
+        [
+          "Norwegian heavy water sabotage",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab480c45542990594ba9c36"
+    },
+    {
+      "uid": "03a80b79-8a86-436a-a7d4-670cd33fd003",
+      "claim": "Vanessa Kirby played Joanna Richard Curtis' movie released on 4 September 2013.",
+      "supporting_facts": [
+        [
+          "Vanessa Kirby",
+          1
+        ],
+        [
+          "About Time (2013 film)",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae3ad8d5542992f92d82338"
+    },
+    {
+      "uid": "415a1507-6c41-482c-bd62-18274094716e",
+      "claim": "Whataburger in Richardson Square is located in Richardson, Texas.",
+      "supporting_facts": [
+        [
+          "Richardson Square Mall",
+          0
+        ],
+        [
+          "Richardson Square Mall",
+          2
+        ],
+        [
+          "Whataburger",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a858dc85542997b5ce40002"
+    },
+    {
+      "uid": "39ca0e37-7c6b-40b4-bfb4-f48070fef2bb",
+      "claim": "Squirrel Nut Zippers and Sponge have an American country of origin in common.",
+      "supporting_facts": [
+        [
+          "Squirrel Nut Zippers",
+          0
+        ],
+        [
+          "Sponge (band)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7d27ad554299452d57bb2e"
+    },
+    {
+      "uid": "d244d91f-9ca4-4f4e-96e6-991a084bf7f8",
+      "claim": "Maurice Ravel was born before William Walton.",
+      "supporting_facts": [
+        [
+          "Maurice Ravel",
+          0
+        ],
+        [
+          "William Walton",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a776bd155429966f1a36d3b"
+    },
+    {
+      "uid": "a79ae970-09a4-4da3-82cf-025bea6020e5",
+      "claim": "Leo Varadkar beat Irish Fine Gael politician Simon Coveney on June 2, 2017, 60% to 40%.",
+      "supporting_facts": [
+        [
+          "Fine Gael leadership election, 2017",
+          0
+        ],
+        [
+          "Fine Gael leadership election, 2017",
+          2
+        ],
+        [
+          "Simon Coveney",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abad9815542996cc5e49ea9"
+    },
+    {
+      "uid": "03d916fb-e1b8-47f1-b04e-353bea24b06c",
+      "claim": "The Octopus card was available before the No Card.",
+      "supporting_facts": [
+        [
+          "Nol Card",
+          0
+        ],
+        [
+          "Octopus card",
+          0
+        ],
+        [
+          "Octopus card",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7b26d255429931da12ca00"
+    },
+    {
+      "uid": "0c72c7db-407a-41ca-b100-6d856daebfe3",
+      "claim": "Come and Get It: The Best of Apple Records included recordings produced by the guitarist who had the nickname the quiet Beatle.",
+      "supporting_facts": [
+        [
+          "Come and Get It: The Best of Apple Records",
+          3
+        ],
+        [
+          "George Harrison",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae3f0955542995ad6573cae"
+    },
+    {
+      "uid": "e9fe8fbc-518a-4c27-a90c-9d1eae0430e4",
+      "claim": "Camair-Co, headquarted in Immeuble La Rotonde in Douala, took over Cameroon Airlines Corporation in March 2008.",
+      "supporting_facts": [
+        [
+          "Cameroon Airlines",
+          3
+        ],
+        [
+          "Camair-Co",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a775f8d5542993569682d73"
+    },
+    {
+      "uid": "b0199cae-850b-4c61-8fcb-9a690ef4167d",
+      "claim": "Douglas M. North is the head of a school located in Albany, New York.",
+      "supporting_facts": [
+        [
+          "Douglas M. North",
+          0
+        ],
+        [
+          "The Albany Academies",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8392f15542992ef85e2310"
+    },
+    {
+      "uid": "b2dec67c-5aa4-452f-8022-f9d7bd79d975",
+      "claim": "Ogier the Dane is the name for the character also known as Holger Danske, from medieval French chansons de geste.",
+      "supporting_facts": [
+        [
+          "Holger Danske (disambiguation)",
+          0
+        ],
+        [
+          "Ogier the Dane",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac0b6b15542996f0d89cc1e"
+    },
+    {
+      "uid": "f10b1a68-8859-4a23-b105-c7ea3b0a1d25",
+      "claim": "Neil Gooding wrote the musical in which Edwin Gagiano won a Best Actor Award.",
+      "supporting_facts": [
+        [
+          "Edwin Gagiano",
+          1
+        ],
+        [
+          "Back to the 80s (musical)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac4a12e5542996feb3fe924"
+    },
+    {
+      "uid": "a30ce7f3-284e-478e-8a2f-c37bbe5535b6",
+      "claim": "The actor who played Nathan Appleby in The Living and the Dead was born in 1986.",
+      "supporting_facts": [
+        [
+          "The Living and the Dead (TV series)",
+          1
+        ],
+        [
+          "Colin Morgan",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a72ab035542991f9a20c560"
+    },
+    {
+      "uid": "80f1f5eb-9516-4d85-ae8c-18cb086113bb",
+      "claim": "Patricia Jude Francis Kensit was the lead singer of Eighth Wonder and who was born on March, 4th in 1968.",
+      "supporting_facts": [
+        [
+          "Eighth Wonder",
+          1
+        ],
+        [
+          "Patsy Kensit",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7224ab55429971e9dc92dd"
+    },
+    {
+      "uid": "949b4e9c-6c7b-41a9-91c1-6bb4045691dd",
+      "claim": "Both the Beaulieu Mine and Colomac Mine fell into bankruptcy.",
+      "supporting_facts": [
+        [
+          "Beaulieu Mine",
+          3
+        ],
+        [
+          "Colomac Mine",
+          5
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab48f245542990594ba9c66"
+    },
+    {
+      "uid": "806a6d47-f262-4cae-9515-069b41e9b3f5",
+      "claim": "The actor that played Sean Tully defeated Jodie Prenger in a dancing contest.",
+      "supporting_facts": [
+        [
+          "Christian Clarke",
+          2
+        ],
+        [
+          "Antony Cotton",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac17c865542994ab5c67d6a"
+    },
+    {
+      "uid": "c80c6bfe-5b4f-4488-947e-3be80ccf4f6c",
+      "claim": "The Nusretiye Mosque in Istanbul is unique for retaining a Baroque style of architecture, and not the Bayezid II Mosque.",
+      "supporting_facts": [
+        [
+          "Bayezid II Mosque",
+          0
+        ],
+        [
+          "Nusretiye Mosque",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7153d05542994082a3e7dc"
+    },
+    {
+      "uid": "2c0e1fb7-dbe7-44aa-9935-060a032a92e0",
+      "claim": "Mark Steven Johnson and Mohammad Bakri directed films.",
+      "supporting_facts": [
+        [
+          "Mark Steven Johnson",
+          0
+        ],
+        [
+          "Mohammad Bakri",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a74f8b05542993748c89769"
+    },
+    {
+      "uid": "33c03fb7-1dc9-473c-8b7d-c291992ee5fc",
+      "claim": "The man with whom Hans Loewald studied philosophy was German.",
+      "supporting_facts": [
+        [
+          "Hans Loewald",
+          0
+        ],
+        [
+          "Hans Loewald",
+          1
+        ],
+        [
+          "Martin Heidegger",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5add46e65542992200553a7b"
+    },
+    {
+      "uid": "0055cd9e-111f-47b1-8b28-5da37f5c0e14",
+      "claim": "March 23, 2017 the eighth season renewed for the series starring Al Harrington.",
+      "supporting_facts": [
+        [
+          "Al Harrington (actor)",
+          0
+        ],
+        [
+          "Al Harrington (actor)",
+          1
+        ],
+        [
+          "Hawaii Five-0 (2010 TV series)",
+          0
+        ],
+        [
+          "Hawaii Five-0 (2010 TV series)",
+          5
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7ef49a5542994959419a91"
+    },
+    {
+      "uid": "14265344-3704-421a-af5f-d87195f4873f",
+      "claim": "Party of Syrian Unity was established in the wake of a public statement that announced support for the establishment of a \"national home for the Jewish people\" in Palestine.",
+      "supporting_facts": [
+        [
+          "Declaration to the Seven",
+          0
+        ],
+        [
+          "Balfour Declaration",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab3cc395542992ade7c6e9f"
+    },
+    {
+      "uid": "227c2b3f-e819-4642-9f61-1472503bc686",
+      "claim": "Chas Early is best known for portraying a comedian born in 1961.",
+      "supporting_facts": [
+        [
+          "Chas Early",
+          2
+        ],
+        [
+          "Bill Hicks",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae727615542991e8301cb66"
+    },
+    {
+      "uid": "ce6d8c14-47c2-4b67-b6fb-5319ef6b89df",
+      "claim": "Operation Entebbe, in which Brigitte Kuhlmann was killed, took place at Entebbe Airport in Ontario on 4 July 1976.",
+      "supporting_facts": [
+        [
+          "Brigitte Kuhlmann",
+          0
+        ],
+        [
+          "Brigitte Kuhlmann",
+          1
+        ],
+        [
+          "Operation Entebbe",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a77784055429967ab1051ac"
+    },
+    {
+      "uid": "5d944c64-95f5-4ae6-a51d-4336127bbae5",
+      "claim": "ABC1 and ABC2 were the channels that the cartoon that Nicholas Boshier developed with Anthony MacFarlane and Peter broadcast on.",
+      "supporting_facts": [
+        [
+          "Nicholas Boshier",
+          2
+        ],
+        [
+          "Beached Az",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac18baa5542991316484b33"
+    },
+    {
+      "uid": "3a9a4e14-8fbc-416a-bd50-cdaeb067b172",
+      "claim": "A man known as one of the most brutal pro-Confederate military leaders in the American Civil War had a following that included a bank and train robber from western Missouri raised in Little Dixie.",
+      "supporting_facts": [
+        [
+          "Jesse James",
+          0
+        ],
+        [
+          "Jesse James",
+          1
+        ],
+        [
+          "William T. Anderson",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7f79155542995d8a8dde86"
+    },
+    {
+      "uid": "a9314c78-9f86-4f21-8d81-8e4d4f9edf9d",
+      "claim": "Leo Varadkar beat incumbent Irish Fine Gael politician Simon Coveney on June 2, 2017, 60% to 40%.",
+      "supporting_facts": [
+        [
+          "Fine Gael leadership election, 2017",
+          0
+        ],
+        [
+          "Fine Gael leadership election, 2017",
+          2
+        ],
+        [
+          "Simon Coveney",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abad9815542996cc5e49ea9"
+    },
+    {
+      "uid": "0af6e86b-9998-4ce9-bc78-526ec5d6d95c",
+      "claim": "The studio album Come and Get It: The Best of Apple Records included recordings produced by the guitarist who had the nickname the quiet Beatle.",
+      "supporting_facts": [
+        [
+          "Come and Get It: The Best of Apple Records",
+          3
+        ],
+        [
+          "George Harrison",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae3f0955542995ad6573cae"
+    },
+    {
+      "uid": "82559a94-bfec-494b-a923-8cc0be00604f",
+      "claim": "Matthew Pettinger's birth place is on the banks of the North Saskatchewan River.",
+      "supporting_facts": [
+        [
+          "Matt Pettinger",
+          0
+        ],
+        [
+          "Matt Pettinger",
+          2
+        ],
+        [
+          "Edmonton",
+          0
+        ],
+        [
+          "Edmonton",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a88ef74554299206df2b3c1"
+    },
+    {
+      "uid": "8ce79286-853a-49b7-be9f-0145d5219d0a",
+      "claim": "Douglas M. North is the head of a clown school located in Albany, New York.",
+      "supporting_facts": [
+        [
+          "Douglas M. North",
+          0
+        ],
+        [
+          "The Albany Academies",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8392f15542992ef85e2310"
+    },
+    {
+      "uid": "1cdeeeb0-c223-469f-b8a9-902a6e1a2e13",
+      "claim": "Ogier the Dane is not the name for the character known as Holger Danske, from medieval French chansons de geste.",
+      "supporting_facts": [
+        [
+          "Holger Danske (disambiguation)",
+          0
+        ],
+        [
+          "Ogier the Dane",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac0b6b15542996f0d89cc1e"
+    },
+    {
+      "uid": "79f99cd2-d7ec-4f10-b53e-d952fc2f6e37",
+      "claim": "Neil Gooding wrote the pastiche 1950s musical in which Edwin Gagiano won a Best Actor Award.",
+      "supporting_facts": [
+        [
+          "Edwin Gagiano",
+          1
+        ],
+        [
+          "Back to the 80s (musical)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac4a12e5542996feb3fe924"
+    },
+    {
+      "uid": "7d87c564-f046-4620-9904-d70507173951",
+      "claim": "Martin Flavin and Peter Benchley both were australians.",
+      "supporting_facts": [
+        [
+          "Martin Flavin",
+          0
+        ],
+        [
+          "Peter Benchley",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a76fda05542994aec3b71b0"
+    },
+    {
+      "uid": "11a8971f-63bf-498b-8db6-308054617b81",
+      "claim": "The man with whom Hans Loewald studied oriental philosophy was German.",
+      "supporting_facts": [
+        [
+          "Hans Loewald",
+          0
+        ],
+        [
+          "Hans Loewald",
+          1
+        ],
+        [
+          "Martin Heidegger",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5add46e65542992200553a7b"
+    },
+    {
+      "uid": "811a9827-bddd-459c-86d2-d99442a72588",
+      "claim": "The board game San Marco came did not come out first out of San Marco and About Time.",
+      "supporting_facts": [
+        [
+          "San Marco (board game)",
+          0
+        ],
+        [
+          "About Time (board game)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a713fb15542994082a3e6f0"
+    },
+    {
+      "uid": "62fa0f52-458c-4a93-8b6e-f69758ca72ff",
+      "claim": "The Chicago Mayer-endorsed, 38th Ward of the City of Chicago alderman is serving East Side of town.",
+      "supporting_facts": [
+        [
+          "Nicholas Sposato",
+          0
+        ],
+        [
+          "Rahm Emanuel",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae1aed65542997f29b3c0ff"
+    },
+    {
+      "uid": "a60619b7-dc7d-4e73-bb3f-2458955a35b0",
+      "claim": "In regards to Value premium the expert who argued that no value premium exists, did not found The Vanguard Group.",
+      "supporting_facts": [
+        [
+          "Value premium",
+          2
+        ],
+        [
+          "John C. Bogle",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab8634e5542990e739ec8de"
+    },
+    {
+      "uid": "727ea0c4-f0e5-41bf-bf8a-c2ad6e759137",
+      "claim": "ElvenQuest is a comic fantasy broadcast that stars the English actress formally referred to as Lady Frederick Windsor, who is the daughter of Lord Frederick Windsor.",
+      "supporting_facts": [
+        [
+          "ElvenQuest",
+          0
+        ],
+        [
+          "Sophie Winkleman",
+          0
+        ],
+        [
+          "Sophie Winkleman",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a89d8d055429946c8d6e9df"
+    },
+    {
+      "uid": "81f86743-78c0-489f-bf1a-d12974dac445",
+      "claim": "The Farming Game was completed before Polarity.",
+      "supporting_facts": [
+        [
+          "Polarity (game)",
+          0
+        ],
+        [
+          "Polarity (game)",
+          2
+        ],
+        [
+          "The Farming Game",
+          0
+        ],
+        [
+          "The Farming Game",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a772c925542993735360208"
+    },
+    {
+      "uid": "5444c01c-5637-4a14-be21-e7137e88e7a9",
+      "claim": "Keurig Green Mountain specializes in robotics, not Microchip Technology.",
+      "supporting_facts": [
+        [
+          "Microchip Technology",
+          0
+        ],
+        [
+          "Microchip Technology",
+          1
+        ],
+        [
+          "Keurig Green Mountain",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5adddd575542997dc790706a"
+    },
+    {
+      "uid": "d0085fb6-c120-4b83-9510-8ceed2501909",
+      "claim": "The Hellcat Spangled Shalalala is a song by the South Yorkshire band Arctic Monkies formed in the High Green suburb of Sheffield.",
+      "supporting_facts": [
+        [
+          "The Hellcat Spangled Shalalala",
+          0
+        ],
+        [
+          "Arctic Monkeys",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae744685542997b22f6a664"
+    },
+    {
+      "uid": "3c4e41eb-5458-4f33-ac66-00f9a405334b",
+      "claim": "Hunter Mountain is the second highest peak in the Catskills, in the south east area of New York, second only to Pink Mountain.",
+      "supporting_facts": [
+        [
+          "Hunter Mountain Fire Tower",
+          0
+        ],
+        [
+          "Catskill Mountains",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7c4df555429907fabeef58"
+    },
+    {
+      "uid": "27c8971e-99e7-4db0-aef4-d4a9f15aaab2",
+      "claim": "Tom Hewitt died in Ravalli County, Montana.",
+      "supporting_facts": [
+        [
+          "Tom Hewitt (actor)",
+          0
+        ],
+        [
+          "Victor, Montana",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8ec4875542995a26add508"
+    },
+    {
+      "uid": "74d5c8c1-e16f-45c7-b10b-3a99b90b8afd",
+      "claim": "Between Atsushi Ogata and Ralph Smart, Atsushi Ogata graduated from Cabot House.",
+      "supporting_facts": [
+        [
+          "Atsushi Ogata",
+          0
+        ],
+        [
+          "Ralph Smart",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abf2e605542993fe9a41de4"
+    },
+    {
+      "uid": "4aa106ff-de78-4c40-8c23-570594cec807",
+      "claim": "Buck Barrow is married to Blanche Barrow, a fringe member of Bonnie and Clyde's gang born in 1911 who was killed in 1948.",
+      "supporting_facts": [
+        [
+          "Buck Barrow",
+          2
+        ],
+        [
+          "Blanche Barrow",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab51f735542996a3a96a028"
+    },
+    {
+      "uid": "d6888504-e082-4200-a7f6-414c72660d4c",
+      "claim": "Charleston is the capital of North Carolina, the state Curly Ray Cline is from.",
+      "supporting_facts": [
+        [
+          "Curly Ray Cline",
+          0
+        ],
+        [
+          "West Virginia",
+          3
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae12773554299422ee99611"
+    },
+    {
+      "uid": "4507c517-26b7-4805-b173-ea10f9051d52",
+      "claim": "Roy Hilton ran in Super Bowl V against the Cowboys as a defensive end.",
+      "supporting_facts": [
+        [
+          "Roy Hilton",
+          0
+        ],
+        [
+          "Super Bowl V",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac2ae1655429967731025fd"
+    },
+    {
+      "uid": "01464296-37ee-49f7-96e3-93c2aae6df39",
+      "claim": "Duchess Eleanor of Lan Na is the mother of the king that Walchelin de Ferriers was principal captain to.",
+      "supporting_facts": [
+        [
+          "Walchelin de Ferriers",
+          0
+        ],
+        [
+          "Richard I of England",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8e08ab5542995085b37393"
+    },
+    {
+      "uid": "e48b639a-3b4a-4371-8345-b19aac231010",
+      "claim": "The 2012 World Indoor Archery Championships was contested at a five-star hotel owned and operated by Michael Gaughan.",
+      "supporting_facts": [
+        [
+          "2012 World Indoor Archery Championships",
+          2
+        ],
+        [
+          "South Point Hotel, Casino &amp; Spa",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae128d85542990adbacf720"
+    },
+    {
+      "uid": "4f5a635e-be93-478c-aaf5-5dcdf3f5555b",
+      "claim": "Pre-Madonna was a comprehensive collection of demos by the singer who was a leading presence during the emergence of MTV.",
+      "supporting_facts": [
+        [
+          "Pre-Madonna",
+          0
+        ],
+        [
+          "Madonna (entertainer)",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae5e0615542996de7b71a47"
+    },
+    {
+      "uid": "0697ed16-2a83-4be8-8215-fa80875f3ea2",
+      "claim": "The First United States Congress, consisting of the United States Senate and the United States House of Representatives, met every week from March 4, 1789, to March 4, 1791, during the first two years of George Washington's presidency, first at Federal Hall, in New York City.",
+      "supporting_facts": [
+        [
+          "1st United States Congress",
+          0
+        ],
+        [
+          "Federal Hall",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae77aee554299540e5a55ca"
+    },
+    {
+      "uid": "06915282-4d19-46d3-b5b3-08c4cfa5d49d",
+      "claim": "The Deal Timeball in Iceland can be 0.9 s. from Coordinated Universal Time.",
+      "supporting_facts": [
+        [
+          "Deal Timeball",
+          0
+        ],
+        [
+          "Greenwich Mean Time",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5adf01425542995ec70e8f53"
+    },
+    {
+      "uid": "138ea989-ac4e-4444-8702-0696cb005db5",
+      "claim": "The Port Noarlunga Reef Aquatic Reserve and the Onkaparinga River are both located in Brisbane, South Australia.",
+      "supporting_facts": [
+        [
+          "Port Noarlunga Reef Aquatic Reserve",
+          0
+        ],
+        [
+          "Onkaparinga River",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8b9eda5542995d1e6f1425"
+    },
+    {
+      "uid": "6051cca9-b462-4c94-bf19-d32c7df0a338",
+      "claim": "Wayne R. Mass is a former medal winning American football offensive tackle who played five seasons in the National Football League, he played college football at Clemson University, an American public, coeducational, land-grant and sea-grant research university in Clemson, in South Carolina.",
+      "supporting_facts": [
+        [
+          "Wayne Mass",
+          2
+        ],
+        [
+          "Clemson University",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ac0effd5542996f0d89cc3a"
+    },
+    {
+      "uid": "fc9482d9-b0cb-440f-acdb-70526acf0b49",
+      "claim": "Straight Blast Gym - Ireland and John Kavanagh have visual arts in common.",
+      "supporting_facts": [
+        [
+          "Straight Blast Gym - Ireland",
+          0
+        ],
+        [
+          "John Kavanagh (martial artist)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7b413a5542992d025e67c4"
+    },
+    {
+      "uid": "62715c7f-1ddf-427a-b354-3956553ce8ea",
+      "claim": "Dwight D. Eisenhower assassinated the 20th President of the United States.",
+      "supporting_facts": [
+        [
+          "Edward Anthony Spitzka",
+          1
+        ],
+        [
+          "James A. Garfield",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a74d4f355429974ef308c79"
+    },
+    {
+      "uid": "4febeec6-7814-4685-82f4-d0bf69ddc15a",
+      "claim": "Fairview is the birthplace of the 23rd United States Secretary of War born in 1874.",
+      "supporting_facts": [
+        [
+          "Fairview, Kentucky",
+          0
+        ],
+        [
+          "Fairview, Kentucky",
+          2
+        ],
+        [
+          "Jefferson Davis",
+          2
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7d3eea5542995ed0d16646"
+    },
+    {
+      "uid": "e487d1ef-233e-4d64-95b4-eaec6a4fa971",
+      "claim": "The bands named Phoenix and Shearwater specialize in the exact same genre.",
+      "supporting_facts": [
+        [
+          "Phoenix (band)",
+          0
+        ],
+        [
+          "Shearwater (band)",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab9aed855429970cfb8eb6d"
+    },
+    {
+      "uid": "d67bb166-28d5-4a22-9ab2-5dac96f4e36f",
+      "claim": "Eric Jacobsen is a basketball forward for a team representing the state of South Australia.",
+      "supporting_facts": [
+        [
+          "Eric Jacobsen (basketball)",
+          0
+        ],
+        [
+          "Adelaide 36ers",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abe4f035542991f6610613a"
+    },
+    {
+      "uid": "abe34021-39f0-47c6-8aad-78d67135c49b",
+      "claim": "The Man from Snowy River II and Miracle of the White Stallions were both produced in different countries.",
+      "supporting_facts": [
+        [
+          "The Man from Snowy River II",
+          0
+        ],
+        [
+          "Miracle of the White Stallions",
+          0
+        ],
+        [
+          "Miracle of the White Stallions",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5add0f635542994ed6169c56"
+    },
+    {
+      "uid": "77d9a28c-24b6-4af7-a7fe-b3b18d5ae2d2",
+      "claim": "QueerTelevision is a Canadian television newsmagazine series hosted between 1983 and 1994 by a Muslim Canadian author, educator, and advocate of a reformist interpretation of Islam.",
+      "supporting_facts": [
+        [
+          "QT: QueerTelevision",
+          0
+        ],
+        [
+          "Irshad Manji",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7447d155429979e28828cc"
+    },
+    {
+      "uid": "19a962bc-5a41-447e-9a18-23298ebeec11",
+      "claim": "Herbalife is an Irish company that sponsored the 2009 LA Women's Tennis Championships and also sells nutrition supplements, sports nutrition, and personal-care products.",
+      "supporting_facts": [
+        [
+          "2009 LA Women's Tennis Championships",
+          0
+        ],
+        [
+          "Herbalife",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab8fe045542991b5579f0b8"
+    },
+    {
+      "uid": "9897cc39-d23b-40bd-9133-a3aaa27dd08a",
+      "claim": "The film, Salome's Last Dance, is based on a play by a writer that died in August 1900.",
+      "supporting_facts": [
+        [
+          "Salome's Last Dance",
+          1
+        ],
+        [
+          "Oscar Wilde",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae79d9e5542997ec27276be"
+    },
+    {
+      "uid": "79dda879-aa0f-466f-ac76-a5e606231d50",
+      "claim": "The political party that Kayithi Narsi Reddy associates with was founded in February 1885.",
+      "supporting_facts": [
+        [
+          "Kayithi Narsi Reddy",
+          0
+        ],
+        [
+          "Indian National Congress",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab314c8554299233954ff03"
+    },
+    {
+      "uid": "f858cc07-a200-41b1-831d-5d67943488a3",
+      "claim": "Moon Hyung-joo is the birth name of the grandma who is featured in the 2016 film starring Cha Hak-yeon.",
+      "supporting_facts": [
+        [
+          "N (singer)",
+          0
+        ],
+        [
+          "N (singer)",
+          3
+        ],
+        [
+          "Tomorrow Boy",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8ae76955429970aeb70329"
+    },
+    {
+      "uid": "90c7e0a4-798b-4716-8289-aa916105ca3a",
+      "claim": "Scenestar was known to organise events at a hotel in Melbourne.",
+      "supporting_facts": [
+        [
+          "Scenestar",
+          0
+        ],
+        [
+          "Scenestar",
+          2
+        ],
+        [
+          "Richmond, Victoria",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5add45915542997545bbbd0f"
+    },
+    {
+      "uid": "505f863d-879a-4cd5-87d7-6c592c6110d7",
+      "claim": "Comic Court was the name of the Australian bred Thoroughbred racehorse who won Australia's most prestigious annual Thoroughbred horse race in August 1950.",
+      "supporting_facts": [
+        [
+          "Comic Court",
+          0
+        ],
+        [
+          "Comic Court",
+          1
+        ],
+        [
+          "Melbourne Cup",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a804191554299485f5985a3"
+    },
+    {
+      "uid": "de935f1f-09f9-4393-8959-da29fe037612",
+      "claim": "Greenwich House is the historic meeting venue built in a style taught at the Ecole des Beaux-Arts.",
+      "supporting_facts": [
+        [
+          "Dayton Memorial Hall",
+          0
+        ],
+        [
+          "Dayton Memorial Hall",
+          1
+        ],
+        [
+          "Beaux-Arts architecture",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7a88e455429941d65f268c"
+    },
+    {
+      "uid": "cb392f90-618d-4f65-8c85-5c836a90875e",
+      "claim": "Both the poet Maurice Newman and Macquarie University are from Australia.",
+      "supporting_facts": [
+        [
+          "Maurice Newman",
+          0
+        ],
+        [
+          "Macquarie University",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8b1fc955429971feec4643"
+    },
+    {
+      "uid": "93e57121-8474-4a95-8a5e-7d64f4efcfe6",
+      "claim": "The axial turbojet Pirna 014 was designed by engineers from this American aircraft and aircraft engine manufacturer based in Dessau.",
+      "supporting_facts": [
+        [
+          "Pirna 014",
+          0
+        ],
+        [
+          "Junkers",
+          0
+        ],
+        [
+          "Junkers",
+          1
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7d90195542991319bc93cf"
+    },
+    {
+      "uid": "212eb839-e926-4247-9fca-27356ed93daf",
+      "claim": "Owen Wilson acted in \"Shanghai Knights\" and voiced Pixar in the \"Cars\" franchise.",
+      "supporting_facts": [
+        [
+          "Shanghai Knights",
+          2
+        ],
+        [
+          "Owen Wilson",
+          3
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae68e9d55429908198fa60e"
+    },
+    {
+      "uid": "e84ef097-8f27-4feb-8a91-1535baf65307",
+      "claim": "Adam Minarovich and Core Harrison own the famous pawn shop d Famous Gold & Silver Pawn Shop.",
+      "supporting_facts": [
+        [
+          "Corey Harrison",
+          0
+        ],
+        [
+          "Rick Harrison",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab6fc8a5542991d32223714"
+    },
+    {
+      "uid": "e92e2da6-d075-4a89-b1ce-6e8fa07e39ae",
+      "claim": "The man who coached The 1973 Indiana Hoosiers football team was born in May of 1935.",
+      "supporting_facts": [
+        [
+          "1973 Indiana Hoosiers football team",
+          0
+        ],
+        [
+          "1973 Indiana Hoosiers football team",
+          2
+        ],
+        [
+          "Lee Corso",
+          0
+        ]
+      ],
+      "label": "NOT_SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7de5865542995f4f4022f3"
+    },
+    {
+      "uid": "e1a4f91d-5a00-4d03-8667-fe95c9bc2a52",
+      "claim": "Hoch wie nie was published by the same singer that is also a  composer. This composer was a banjo player in the band The Pogues.",
+      "supporting_facts": [
+        [
+          "Misty Morning, Albert Bridge",
+          1
+        ],
+        [
+          "Jem Finer",
+          1
+        ],
+        [
+          "Longplayer",
+          0
+        ],
+        [
+          "Hoch wie nie",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abd27ba5542993062266ba7"
+    },
+    {
+      "uid": "b5357553-95dc-4763-bf94-e77f83672342",
+      "claim": "This movie is based on a book by the Austrian author Felix Salten, The film where Candy Ford voiced Salten is not. The movie was restored and preserved by John D. Lowry.",
+      "supporting_facts": [
+        [
+          "Bambi",
+          0
+        ],
+        [
+          "The Country Bears",
+          0
+        ],
+        [
+          "John D. Lowry",
+          4
+        ],
+        [
+          "Candy Ford",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abfed4c5542994516f4552b"
+    },
+    {
+      "uid": "2cde647b-0134-4a60-96e5-00ef6042e6e9",
+      "claim": "The man unseated by Rick Galindo in 2009, and the winner of the San Antonio mayoral election of 2009 belong to the same party. They are both democrats.",
+      "supporting_facts": [
+        [
+          "Philip Cortez",
+          0
+        ],
+        [
+          "Julian Castro",
+          0
+        ],
+        [
+          "Rick Galindo",
+          1
+        ],
+        [
+          "San Antonio mayoral election, 2009",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5adf4da15542995534e8c780"
+    },
+    {
+      "uid": "8ee73ca6-03f2-4945-9fd4-2fb206b6da03",
+      "claim": "The film that featured Nico Liersch in the role of Rudy Steiner was directed by same director of the film About a Girl. That film is based on a book by Markus Zusak.",
+      "supporting_facts": [
+        [
+          "Brian Percival",
+          0
+        ],
+        [
+          "The Book Thief (film)",
+          1
+        ],
+        [
+          "About a Girl (2001 film)",
+          0
+        ],
+        [
+          "Nico Liersch",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5adddb7e5542997dc790705f"
+    },
+    {
+      "uid": "74328ca2-e362-4a5d-baba-2a5efd76e6c4",
+      "claim": "The writer of the song Girl Talk has been been members of a girl group. The co-host of the 4th APAN Star Awards also has been been members of a girl group.",
+      "supporting_facts": [
+        [
+          "Tionne Watkins",
+          1
+        ],
+        [
+          "Park So-yeon (singer)",
+          1
+        ],
+        [
+          "Girl Talk (TLC song)",
+          1
+        ],
+        [
+          "4th APAN Star Awards",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abdbf3755429933744ab818"
+    },
+    {
+      "uid": "c7e41ec9-e9c7-482f-89ea-4e8a9b1382b3",
+      "claim": "Park So-yeon  was a members of a girl group. So was the writer of the song that was the second single released from the group TLC, \"Hands Up\".",
+      "supporting_facts": [
+        [
+          "Tionne Watkins",
+          1
+        ],
+        [
+          "Park So-yeon (singer)",
+          1
+        ],
+        [
+          "Girl Talk (TLC song)",
+          1
+        ],
+        [
+          "Hands Up (TLC song)",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5abdbf3755429933744ab818"
+    },
+    {
+      "uid": "d0366ef4-d715-4cca-999e-f12fca652211",
+      "claim": "The star of the 2015 film, The Wannabe, played Osborne the cop in a movie. In that same movie, John Gavin Malkovich starred in with Matt Damon and Edward Norton.",
+      "supporting_facts": [
+        [
+          "John Malkovich",
+          3
+        ],
+        [
+          "Rounders (film)",
+          0
+        ],
+        [
+          "David Zayas",
+          1
+        ],
+        [
+          "The Wannabe",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ac2a75755429967731025dc"
+    },
+    {
+      "uid": "f5bdb28b-811c-4bb6-91fd-11fe20f2fcbc",
+      "claim": "This species and the relative of the Fir are classified as genus in the naming system. Parnassius nordmanni is a high altitude butterfly which is found the Caucasus. The larva feeds on this species including \"C. alpestris\", \"C. conorhiza\" and \"C. emanueli\".",
+      "supporting_facts": [
+        [
+          "Corydalis",
+          0
+        ],
+        [
+          "Cedrus",
+          0
+        ],
+        [
+          "Parnassius nordmanni",
+          2
+        ],
+        [
+          "Fir",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5aba5a4d5542994dbf0198ed"
+    },
+    {
+      "uid": "4380ac7f-ec51-4903-b652-f8dc0ca909e1",
+      "claim": "A film was the documentary made before filmmaker Tigre Hill's first documentary. Juliet Weber co-produced this film.",
+      "supporting_facts": [
+        [
+          "The Shame of a City",
+          0
+        ],
+        [
+          "Unchained Memories",
+          0
+        ],
+        [
+          "Tigre Hill",
+          1
+        ],
+        [
+          "Juliet Weber",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5a76404b5542994ccc91873d"
+    },
+    {
+      "uid": "356e549b-c476-48c3-a28b-46c8bb3ef310",
+      "claim": "The group Leonidas L. Polk led was the organized agrarian economic movement among American farmers. It was supported by the weekly left-wing political newspaper, that was published by Julius Wayland.",
+      "supporting_facts": [
+        [
+          "Appeal to Reason (newspaper)",
+          0
+        ],
+        [
+          "Farmers' Alliance",
+          0
+        ],
+        [
+          "Julius Wayland",
+          1
+        ],
+        [
+          "Leonidas L. Polk",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 4,
+      "hpqa_id": "5ae290015542994d89d5b427"
+    },
+    {
+      "uid": "e26bdff3-04e8-4c81-894a-850f8395ece9",
+      "claim": "Gina Bramhill was born in a village. The 2011 population of the unitary authority area that includes this village was 167,446.",
+      "supporting_facts": [
+        [
+          "Eastoft",
+          0
+        ],
+        [
+          "North Lincolnshire",
+          1
+        ],
+        [
+          "Gina Bramhill",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a7db8d95542995ed0d16665"
+    },
+    {
+      "uid": "fa7ccaa0-962e-4b36-9a5c-90492f2f1b30",
+      "claim": "The British monarch (Elizabeth II) is the head of state of the territory where Keightley Way  connects Rosia Road at Little Bay to the place worship for Muslims and Nun's Well at Europa Point.",
+      "supporting_facts": [
+        [
+          "Ibrahim-al-Ibrahim Mosque",
+          0
+        ],
+        [
+          "British Overseas Territories",
+          5
+        ],
+        [
+          "Keightley Way",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a88a35c554299206df2b316"
+    },
+    {
+      "uid": "b71b0c3f-4de0-40a3-92ed-564ef571f90c",
+      "claim": "The composer of Longplayer was a player in the band The Pogues.",
+      "supporting_facts": [
+        [
+          "Misty Morning, Albert Bridge",
+          1
+        ],
+        [
+          "Jem Finer",
+          1
+        ],
+        [
+          "Longplayer",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abd27ba5542993062266ba7"
+    },
+    {
+      "uid": "1867a82f-24f9-4e92-af74-ec910bc4a418",
+      "claim": "This movie is based on a book by the Austrian author Felix Salten, The Country Bears is not. The movie was restored and preserved by John D. Lowry.",
+      "supporting_facts": [
+        [
+          "Bambi",
+          0
+        ],
+        [
+          "The Country Bears",
+          0
+        ],
+        [
+          "John D. Lowry",
+          4
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abfed4c5542994516f4552b"
+    },
+    {
+      "uid": "c84a8f2a-62e0-465b-93ee-77b553845689",
+      "claim": "Dollar Days was the sixth track on Bowie's twenty-fifth and final studio album. The album that was released was recorded in secret.",
+      "supporting_facts": [
+        [
+          "Death of David Bowie",
+          0
+        ],
+        [
+          "Death of David Bowie",
+          1
+        ],
+        [
+          "Blackstar (album)",
+          2
+        ],
+        [
+          "Dollar Days",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ac24c475542996366519960"
+    },
+    {
+      "uid": "2427c810-c00d-4876-8b10-c87c4ba3648b",
+      "claim": "A hockey team calls Madison Square Garden it's home. That team, along with the New York Islanders, and the New Jersey Devils NHL franchise, are popular in the New York metropolitan area.",
+      "supporting_facts": [
+        [
+          "1974\u201375 New York Islanders season",
+          2
+        ],
+        [
+          "New York Rangers",
+          3
+        ],
+        [
+          "Madison Square Garden",
+          5
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5a820e8855429926c1cdae14"
+    },
+    {
+      "uid": "13c18c84-21de-4dce-8a93-9a75b679dd4c",
+      "claim": "The film The Book Thief was directed by same director of the film About a Girl. The Book Thief is based on a book by Markus Zusak.",
+      "supporting_facts": [
+        [
+          "Brian Percival",
+          0
+        ],
+        [
+          "The Book Thief (film)",
+          1
+        ],
+        [
+          "About a Girl (2001 film)",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adddb7e5542997dc790705f"
+    },
+    {
+      "uid": "1137bbf6-6dec-4883-a28b-bfc61be5e52b",
+      "claim": "The president of South Korea was born 24 January 1953. The group that Euh Yoon-Dae was Chairman of lies under his direct control.",
+      "supporting_facts": [
+        [
+          "Presidential Council on Nation Branding, Korea",
+          1
+        ],
+        [
+          "Moon Jae-in",
+          0
+        ],
+        [
+          "Euh Yoon-dae",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5adf07cd5542993a75d263da"
+    },
+    {
+      "uid": "f014a2df-d079-4aaa-8823-ef7ef87c681a",
+      "claim": "The writer of the song Girl Talk and Park So-yeon have both been members of a girl group.",
+      "supporting_facts": [
+        [
+          "Tionne Watkins",
+          1
+        ],
+        [
+          "Park So-yeon (singer)",
+          1
+        ],
+        [
+          "Girl Talk (TLC song)",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5abdbf3755429933744ab818"
+    },
+    {
+      "uid": "e54b122a-b885-4ab0-a768-280a8e3b2145",
+      "claim": "The North Central town that licenses WCJB-TV is home to the punk rock band Against Me!.",
+      "supporting_facts": [
+        [
+          "Don't Lose Touch",
+          0
+        ],
+        [
+          "Gainesville, Florida",
+          2
+        ],
+        [
+          "WCJB-TV",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 3,
+      "hpqa_id": "5ae7c5ef5542993210983f44"
+    },
+    {
+      "uid": "8a3d7423-9b02-4f94-9d03-733a244c40a3",
+      "claim": "Kait Parker fills in occasionally for the meteorologist who replaced Ginger Zee.",
+      "supporting_facts": [
+        [
+          "Kait Parker",
+          0
+        ],
+        [
+          "Kait Parker",
+          1
+        ],
+        [
+          "Rob Marciano",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a774e415542994aec3b7280"
+    },
+    {
+      "uid": "7c55bf49-1230-4df0-aa9e-08e23fb4a892",
+      "claim": "An IndyCar race driver drove a Formula 1 car designed by Peter McCool during the 2007 Formula One season.",
+      "supporting_facts": [
+        [
+          "Super Aguri SA07",
+          0
+        ],
+        [
+          "Takuma Sato",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abd04bd5542992ac4f381a9"
+    },
+    {
+      "uid": "de03ff7c-eedb-49d0-96d7-ae2622174f08",
+      "claim": "The 2011 population of the unitary authority area that includes the village Eastoft was 167,446.",
+      "supporting_facts": [
+        [
+          "Eastoft",
+          0
+        ],
+        [
+          "North Lincolnshire",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a7db8d95542995ed0d16665"
+    },
+    {
+      "uid": "25d4468b-735d-4021-9088-321721187dab",
+      "claim": "Love Drunk was the lead single from Boys Like Girls album on which frontman, Martin Johnson co-wrote a song with Taylor Swift.",
+      "supporting_facts": [
+        [
+          "Love Drunk",
+          3
+        ],
+        [
+          "Two Is Better Than One",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a74122f55429929fddd83da"
+    },
+    {
+      "uid": "82f5d817-104c-4bf6-ad14-a6a1cc3f3ece",
+      "claim": "The MV Bessel ran aground at the second largest island in the Mediterranean in 1972.",
+      "supporting_facts": [
+        [
+          "MV Bessel",
+          0
+        ],
+        [
+          "MV Bessel",
+          6
+        ],
+        [
+          "Sardinia",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8cd51a55429941ae14df02"
+    },
+    {
+      "uid": "b84accac-576f-4b13-ac44-7387c27debeb",
+      "claim": "JSOC was created on the recommendation of a colonel who served in the Malayan Emergency and Vietnam War.",
+      "supporting_facts": [
+        [
+          "Joint Special Operations Command",
+          1
+        ],
+        [
+          "Charles Alvin Beckwith",
+          1
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abae1e65542996cc5e49ed2"
+    },
+    {
+      "uid": "f806d594-ac5c-4e7a-870d-234535f0a928",
+      "claim": "The American cable and satellite television channel that April \"Ape\" Margera appears upon is owned by Viacom Media Networks.",
+      "supporting_facts": [
+        [
+          "April Margera",
+          0
+        ],
+        [
+          "MTV",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5adf34955542993a75d26423"
+    },
+    {
+      "uid": "e46bbfa9-987d-4dbb-832a-dec9c9967a49",
+      "claim": "\"HMS \"Sussex\" was an 80-gun third-rate ship, of the line of the English Royal Navy, for the Kingdom of England on the island of Great Britain from the 10th century\u2014when it emerged from various Anglo-Saxon kingdoms\u2014until 1707, when it united with Scotland to form the Kingdom of Great Britain.",
+      "supporting_facts": [
+        [
+          "HMS Sussex (1693)",
+          1
+        ],
+        [
+          "Kingdom of England",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ab9fe8755429901930fa767"
+    },
+    {
+      "uid": "562e09bb-1c14-4956-8f9c-6525d7496a9c",
+      "claim": "Doggerland, an area that once connected Great Britain to continental Europe, is thought to have been submerged around 6,200 BCE by a massive landslide along 290 km of the continental shelf.",
+      "supporting_facts": [
+        [
+          "Doggerland",
+          0
+        ],
+        [
+          "Doggerland",
+          3
+        ],
+        [
+          "Storegga Slide",
+          0
+        ],
+        [
+          "Storegga Slide",
+          2
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5abe369055429976d4830a8a"
+    },
+    {
+      "uid": "992e5b4d-3d54-4b8d-87ea-1faf93a8bcb1",
+      "claim": "Don Ashley Turlington graduated from Saint Joseph's College, a private Catholic liberal arts college in Standish.",
+      "supporting_facts": [
+        [
+          "Don Ashley Turlington",
+          0
+        ],
+        [
+          "Saint Joseph's College of Maine",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5adf0d2d5542993a75d263e1"
+    },
+    {
+      "uid": "e499796b-0fe1-4a8d-bb57-30625db2b992",
+      "claim": "The previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently works for Cartoon Network Studios.",
+      "supporting_facts": [
+        [
+          "Brian A. Miller",
+          0
+        ],
+        [
+          "Brian A. Miller",
+          1
+        ],
+        [
+          "Nickelodeon Animation Studio",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5a8297c055429954d2e2eb71"
+    },
+    {
+      "uid": "356af093-a986-457b-8f1e-12b3a4e78f86",
+      "claim": "The name of the Dreyse needle gun's succesor was also called Fusil Mle 1886 M93.",
+      "supporting_facts": [
+        [
+          "Rotating bolt",
+          1
+        ],
+        [
+          "Rotating bolt",
+          2
+        ],
+        [
+          "Rotating bolt",
+          3
+        ],
+        [
+          "Lebel Model 1886 rifle",
+          0
+        ]
+      ],
+      "label": "SUPPORTED",
+      "num_hops": 2,
+      "hpqa_id": "5ae20e365542997283cd238b"
+    }
+  
+  ]

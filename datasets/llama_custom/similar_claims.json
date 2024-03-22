@@ -1,0 +1,26 @@
+[
+    {
+      "index": 0,
+      "relative index": 1,
+      "claim": "This work and a production Francesco Tortoli made sets for in 1987 are both operas. Maria de Francesca-Cavazza performed in this opera.",
+      "similar_supported_claims": [
+        "This work and a production Francesco Tortoli made sets for are both operas. Maria de Francesca-Cavazza performed in this opera."
+      ]
+    },
+    {
+      "index": 1,
+      "relative index": 2,
+      "claim": "Red, White & Cr\u00fce and this athlete both fight. The french fighter was trained by Bobby Stewart.",
+      "similar_supported_claims": [
+        "Red, White & Cr\u00fce and this athlete both fight. The fighter was trained by Bobby Stewart."
+      ]
+    },
+    {
+      "index": 2,
+      "relative index": 4,
+      "claim": "The DAF XF articulated truck is produced by Leyland Trucks at their Farington plant.",
+      "similar_supported_claims": [
+        "The DAF XF truck is produced by Leyland Trucks at their Farington plant."
+      ]
+    }
+  ]

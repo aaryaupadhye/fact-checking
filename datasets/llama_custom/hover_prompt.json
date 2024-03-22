@@ -1,0 +1,146 @@
+[  
+  {
+    "uid": "c795e77d-b199-400f-b95d-0ecb24a1a6f0",
+    "claim": "The composer of Longplayer was a banjo player in a band. The musician James McNally was in this band.",
+    "supporting_facts": [
+      [
+        "Misty Morning, Albert Bridge",
+        1
+      ],
+      [
+        "Jem Finer",
+        1
+      ],
+      [
+        "Longplayer",
+        0
+      ],
+      [
+        "James McNally (musician)",
+        1
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5abd27ba5542993062266ba7"
+  },
+
+  {
+    "uid": "21438953-5191-444b-a962-f9171bb355d7",
+    "claim": "This work and a production Francesco Tortoli made sets for in 1987 are both operas. Maria de Francesca-Cavazza performed in this opera.",
+    "supporting_facts": [
+      [
+        "Cardillac",
+        0
+      ],
+      [
+        "La donna del lago",
+        0
+      ],
+      [
+        "Maria de Francesca-Cavazza",
+        7
+      ],
+      [
+        "Francesco Tortoli",
+        1
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 4,
+    "hpqa_id": "5a8650ee5542994775f60751"
+  },
+
+  {
+    "uid": "3be7b926-2b30-4130-86a1-3fccc4ee2655",
+    "claim": "Red, White & Cr\u00fce and this athlete both fight. The french fighter was trained by Bobby Stewart.",
+    "supporting_facts": [
+      [
+        "Red, White &amp; Cr\u00fce",
+        2
+      ],
+      [
+        "Mike Tyson",
+        2
+      ],
+      [
+        "Bobby Stewart",
+        0
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5a7d2ddb554299452d57bb48"
+  },
+
+  {
+    "uid": "330ca632-e83f-4011-b11b-0d0158145036",
+    "claim": "Skagen Painter Peder Severin Kr\u00f8yer favored naturalism along with Theodor Esbern Philipsen and the artist Ossian Elgstr\u00f6m studied with in the early 1900s.",
+    "supporting_facts": [
+      [
+        "Kristian Zahrtmann",
+        0
+      ],
+      [
+        "Kristian Zahrtmann",
+        1
+      ],
+      [
+        "Peder Severin Kr\u00f8yer",
+        1
+      ],
+      [
+        "Ossian Elgstr\u00f6m",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 3,
+    "hpqa_id": "5ab7a86d5542995dae37e986"
+  },
+
+  {
+    "uid": "e73a9e99-0e15-4a76-a3c8-7a1489fe64c5",
+    "claim": "The DAF XF articulated truck is produced by Leyland Trucks at their Farington plant.",
+    "supporting_facts": [
+      [
+        "DAF XF",
+        0
+      ],
+      [
+        "DAF XF",
+        1
+      ],
+      [
+        "DAF Trucks",
+        3
+      ]
+    ],
+    "label": "NOT_SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a74811155429979e2882968"
+  },
+
+  {
+    "uid": "ef4c721f-0a92-4739-9e74-b5c7dba711a4",
+    "claim": "WWE Super Tuesday took place at an arena that currently goes by the name TD Garden.",
+    "supporting_facts": [
+      [
+        "WWE Super Tuesday",
+        0
+      ],
+      [
+        "TD Garden",
+        0
+      ],
+      [
+        "TD Garden",
+        2
+      ]
+    ],
+    "label": "SUPPORTED",
+    "num_hops": 2,
+    "hpqa_id": "5a7c6fde55429907fabeef87"
+  }
+  
+]
